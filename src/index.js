@@ -48,8 +48,6 @@ import express from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 
-// Note: In Node.js ES Modules, you usually need the .js extension 
-// unless your build tool (like Vite/Webpack) handles it for you.
 import loginRoutes from "./router/login.js";
 import dspRoutes from "./router/dsp.js";
 import logoutRouter from "./router/logout.js";
@@ -57,22 +55,19 @@ import logoutRouter from "./router/logout.js";
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-// ✅ Middleware: parse cookies from headers
 app.use(cookieParser());
 
-// ✅ Middleware: allow frontend to send & receive cookies
-// This is critical for the 'auth_token' cookie to work
+
 app.use(
   cors({
-    origin: "http://localhost:3000", // Your Next.js/React URL
+    origin: "http://localhost:3000", 
     credentials: true,
   })
 );
 
-// ✅ Middleware: parse incoming JSON bodies
+
 app.use(express.json());
 
-// Registering Routes
 app.use("/login", loginRoutes);
 app.use("/dsp", dspRoutes);
 app.use("/logout", logoutRouter);
