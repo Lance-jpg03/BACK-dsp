@@ -51,6 +51,7 @@ router.post("/", async (req, res) => {
       Total_Amount,
       Year_Period,
       Quarter_Period,
+      Variance
     } = req.body;
 
     if (!Licensor || !Claim_Type) {
@@ -103,6 +104,7 @@ router.post("/", async (req, res) => {
       Total_Amount: clean(Total_Amount),
       Year_Period: clean(Year_Period),
       Quarter_Period: clean(Quarter_Period),
+      Variance: clean(Variance),
     };
 
     const columns = Object.keys(params)
