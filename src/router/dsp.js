@@ -161,4 +161,19 @@ router.put("/:id", async (req, res) => {
   }
 });
 
+router.delete("/:id", async (req, res) => {
+  try {
+    const { id } = req.params;
+    
+    const sql = `DELETE FROM [PROJECT_LEGO].[dbo].[dsp_foreign] WHERE Collection_ID = @id`;
+    
+    await query(sql, { id });
+
+    res.json({ success: true, message: "Record deleted successfully" });
+  } catch (err) {
+    console.error("Error deleting record:", err.message);
+    res.status(500).json({ error: "Failed to delete the record" });
+  }
+});
+
 export default router;
