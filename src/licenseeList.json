@@ -1,0 +1,6757 @@
+[
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "Breakthrough and Milestones Productions International Inc.",
+    "ESTABLISHMENT": "UNTV Channel 37"
+  },
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "Brigada Mass Media Corporation",
+    "ESTABLISHMENT": "Brigada News Channel 39"
+  },
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "Eagle Broadcasting Corporation",
+    "ESTABLISHMENT": "Net 25"
+  },
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "GMA Network, Inc.",
+    "ESTABLISHMENT": "Channel 7 & 11, 5 new channels"
+  },
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "Kroma Entertainment Inc.",
+    "ESTABLISHMENT": "Pinoy Interactive Entertainment (PIE)"
+  },
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "TV5 Network Inc.",
+    "ESTABLISHMENT": "TV5, One Sports, One PH"
+  },
+  {
+    "CATEGORY": "Free TV",
+    "COMPANY": "TV5 Network Inc.",
+    "ESTABLISHMENT": "TV5, One Sports, RPTV"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Aclan Cable Network, Inc.",
+    "ESTABLISHMENT": "Aclan Cable Network, Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Aklan Cable Television Co. Inc.",
+    "ESTABLISHMENT": "Aklan Cable Television Co. Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Batangas CATV Inc.",
+    "ESTABLISHMENT": "Batangas CATV, Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Beautiful Cable TV Philippines Inc.",
+    "ESTABLISHMENT": "Beautiful Cable TV"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Cignal TV, Inc.",
+    "ESTABLISHMENT": "Cignal TV"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Colorview CATV, Inc.",
+    "ESTABLISHMENT": "Colorview CATV, Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Colorview-Northwest Cable Inc.",
+    "ESTABLISHMENT": "Colorview-Northwest Cable Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "DCTV Cable Network Broadband Services, Inc.",
+    "ESTABLISHMENT": "DCTV Cable Network Broadband Services, Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Excelite CATV Batangas, Inc.",
+    "ESTABLISHMENT": "Excelite CATV Batangas, Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Galaxy Cable Corporation",
+    "ESTABLISHMENT": "Galaxy Cable"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Global Satellite Technology Services Inc.",
+    "ESTABLISHMENT": "Global Satellite"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Jade Cable TV System Inc.",
+    "ESTABLISHMENT": "Jade Cable TV System"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "JM Cable Network Inc.",
+    "ESTABLISHMENT": "JM Cable Network Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Kabankalan Community Antenna Television System (K-CAT) Inc.",
+    "ESTABLISHMENT": "KCAT Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Lutucan-Guisguis Cable Network Inc.",
+    "ESTABLISHMENT": "Lutucan-Guisguis Cable Network Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Multivision CATV Coporation",
+    "ESTABLISHMENT": "Multivision CATV Coporation"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Naic Cable TV Corporation",
+    "ESTABLISHMENT": "NAIC Cable TV Corporation"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Paradise Cable Television Network Inc.",
+    "ESTABLISHMENT": "Paradise Cable Television "
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Parasat Cable TV Inc.",
+    "ESTABLISHMENT": "Parasat Cable TV"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Quezon CATV Inc.",
+    "ESTABLISHMENT": "Quezon CATV Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Sampaloc CATV System Corporation",
+    "ESTABLISHMENT": "Sampaloc CATV "
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Sariaya Cable Networks Inc.",
+    "ESTABLISHMENT": "Sariaya Cable Networks Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Skycable Corporation",
+    "ESTABLISHMENT": "Skycable"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Southeast Cable TV Corporation",
+    "ESTABLISHMENT": "Southeast Cable TV Corporation"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Southern Cablevision Inc.",
+    "ESTABLISHMENT": "Southern Cablevision"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "St. Lawrence Cable TV",
+    "ESTABLISHMENT": "St. Lawrence Cable TV"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Subic CATV, Inc.",
+    "ESTABLISHMENT": "Subic CATV, Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Tayabas Resources Ventures Corp.",
+    "ESTABLISHMENT": "Tayabas Resources Ventures Corp."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Valencia Cable TV Network Inc.",
+    "ESTABLISHMENT": "Valencia Cable TV Network"
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Wesky Cable Networks (Castillejos) Inc.",
+    "ESTABLISHMENT": "Wesky Cable Networks (Castillejos), Inc."
+  },
+  {
+    "CATEGORY": "Cable TV",
+    "COMPANY": "Zoomsat Incorporated",
+    "ESTABLISHMENT": "Zoomsat Incorporated"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Advanced Media Broadcasting System, Inc.",
+    "ESTABLISHMENT": "DWKX FM 103.5 K Lite"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Aliw Broadcasting Corporation",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Audio Visual Communicators Inc.",
+    "ESTABLISHMENT": "Monster Radio DWRX 93.1"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Audio Visual Communicators Inc.",
+    "ESTABLISHMENT": "Monster Radio DYBT FM 105.9"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Audio Visual Communicators Inc.",
+    "ESTABLISHMENT": "Monster Radio DXBT 99.5"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Beacon Communications System, Inc.",
+    "ESTABLISHMENT": "DWPR AM 1296"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Beta Broadcasting System, Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Blockbuster Broadcasting System Inc.",
+    "ESTABLISHMENT": "Wave 89.1 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Brigada Mass Media Corporation",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Cebu Broadcasting Company",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Cebu Broadcasting Company",
+    "ESTABLISHMENT": "various Aksyon Radyo stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Community Media Network, Inc.",
+    "ESTABLISHMENT": "DYTR 91.1 FM/DYTR 1116 AM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Crusaders Broadcasting System Inc.",
+    "ESTABLISHMENT": "DWAD 1098 Now Radio"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "DZBR 531 AM",
+    "ESTABLISHMENT": "DZBR 531 AM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "End-Time Mission Broadcasting Services Incorporated",
+    "ESTABLISHMENT": "Life Radio DZAT 1512/DWET 1179"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Exodus Broadcasting Corporation",
+    "ESTABLISHMENT": "DYRK FM 96.3 WRocK"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "First Love Broadcasting Network, Inc.",
+    "ESTABLISHMENT": "DXFL-FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Forefront Broadcasting Company",
+    "ESTABLISHMENT": "DZDJ 90.1 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Franciscan Broadcasting Corporation",
+    "ESTABLISHMENT": "DYWC 801 AM Radyo Bandilyo"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "GMA Network Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "GV Radios Network Corporation",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "GVM Radio/TV Corporation",
+    "ESTABLISHMENT": "DYIO Y101 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Holy Trinity College of General Santos City",
+    "ESTABLISHMENT": "DXAH 90.3 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Interactive Broadcast Media, Inc.",
+    "ESTABLISHMENT": "DWWW AM 774 "
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Intercontinental Broadcasting Corporation",
+    "ESTABLISHMENT": "DWAN 1206"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Manila Broadcasting Company",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Manila Broadcasting Company",
+    "ESTABLISHMENT": "various Aksyon Radyo stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Mareco Broadcasting Network Inc.",
+    "ESTABLISHMENT": "DWBM 105.1/DYAC 90.7 Crossover FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Pacific Broadcasting System Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Pacific Broadcasting System Inc.",
+    "ESTABLISHMENT": "Aksyon Radyo station"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Philippine Broadcasting Company",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Philippine Broadcasting Company",
+    "ESTABLISHMENT": "various Aksyon Radyo stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Philippine Collective Media Corporation",
+    "ESTABLISHMENT": "DYDR FM 100.7"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Philippine Radio Corporation",
+    "ESTABLISHMENT": "DZYM AM 1539/DYRM AM 1134"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Quest Broadcasting Corporation",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radio Audience Developers Integrated Organization Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radio Corporation of the Philippines",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radio Mindanao Network",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radio Philippine Network Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radio Veritas Global Broadcasting System, Inc.",
+    "ESTABLISHMENT": "DZRV 846 AM Radio Veritas"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radioworld Broadcasting Corporation",
+    "ESTABLISHMENT": "RW 95.1 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Radyo Pilipino Corporation",
+    "ESTABLISHMENT": "DYRL AM 1035/DZTC AM 828"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Raven Broadcasting Corporation",
+    "ESTABLISHMENT": "Jam 88.3 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Real Radio Network Inc.",
+    "ESTABLISHMENT": "Play 99.5 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "RT Broadcast Specialist Phils., Inc.",
+    "ESTABLISHMENT": "DXKZ 91.5 FM/DXYP 102.7 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Solid North Broadcasting System, Inc.",
+    "ESTABLISHMENT": "DWRS AM 927"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Tourist Radio",
+    "ESTABLISHMENT": "Tourist 91.9 FM"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Ultrasonic Broadcasting System Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "UM Broadcasting Network",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Vanguard Radio Network, Co., Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Z Radio 98.7",
+    "ESTABLISHMENT": "DWUB 98.7 Z Radio"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Zimzam Management Inc.",
+    "ESTABLISHMENT": "various stations"
+  },
+  {
+    "CATEGORY": "Radio",
+    "COMPANY": "Zoe Broadcasting Network, Inc.",
+    "ESTABLISHMENT": "DZJV 1458 Radyo Calabarzon"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "1WH Bohol Resort Corp.",
+    "ESTABLISHMENT": "Best Western Plus The Ivywall Resort Panglao"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "8 Waves Waterpark and Hotel",
+    "ESTABLISHMENT": "8 Waves Waterpark and Hotel Bulacan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Alabang Country Club Inc.",
+    "ESTABLISHMENT": "Alabang Country Club"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Aldex Realty Inc.",
+    "ESTABLISHMENT": "Discovery Primea Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Alenter Resort Hotels Corporation",
+    "ESTABLISHMENT": "Bluewater Maribago Beach Resort Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "ALI Makati Hotel Property Inc.",
+    "ESTABLISHMENT": "Fairmont Raffles Hotel Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Amigo Scotts Management Inc.",
+    "ESTABLISHMENT": "Citadines Amigo Iloilo"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Anchor Land Hotels & Resorts Inc.",
+    "ESTABLISHMENT": "Admiral Hotel Manila-Mgallery"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Angeles Winds Hotel Management Corp.",
+    "ESTABLISHMENT": "Winds Boutique Hotel Pampanga"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Appleone Mactan Inc.",
+    "ESTABLISHMENT": "Sheraton Cebu Mactan Resort"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Araneta Hotels Inc.",
+    "ESTABLISHMENT": "Novotel Cubao"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Araneta Hotels Inc.",
+    "ESTABLISHMENT": "Ibis Styles Manila-Araneta City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Ascott Limited",
+    "ESTABLISHMENT": "Ascott Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Asmara Urban Resort and Lifestyle Village Inc.",
+    "ESTABLISHMENT": "Asmara Urban Resort and Lifestyle Village Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Bai Global Properties Group LLC Inc.",
+    "ESTABLISHMENT": "Bai Hotel"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Balai Sadyaya Resort",
+    "ESTABLISHMENT": "Balai Sadyaya Resort Quezon"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Barrientos and Company Inc. 1",
+    "ESTABLISHMENT": "Victoria Court Cuneta"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Barrientos and Company Inc. 2",
+    "ESTABLISHMENT": "Victoria Court Gil Puyat"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Bataan White Corals Beach Resort",
+    "ESTABLISHMENT": "Bataan White Corals Beach Resort"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Bawbawon Hospitality Group Inc.",
+    "ESTABLISHMENT": "Bawbawon Beach Resort Eastern Looc"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "BB International Leisure and Resort Development Corp.",
+    "ESTABLISHMENT": "Midori Clark Casino Pampanga"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "BB International Leisure and Resort Development Corp.",
+    "ESTABLISHMENT": "Midori Clark Hotel and Casino Pampanga"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Belle South Pacific Properties Inc.",
+    "ESTABLISHMENT": "The Bellevue Resort Bohol"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Belmont Hotel Boracay Inc.",
+    "ESTABLISHMENT": "Belmont Hotel Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Belmont Hotel Mactan Inc.",
+    "ESTABLISHMENT": "Belmont Hotel Mactan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Belmont Newport Luxury Hotels Inc.",
+    "ESTABLISHMENT": "Belmont Newport"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Bohol Beach Club",
+    "ESTABLISHMENT": "Bohol Beach Club"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Bonifacio Hotels Ventures Inc.",
+    "ESTABLISHMENT": "Seda BGC"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Boracay Seascapes Inc.",
+    "ESTABLISHMENT": "Crimson Resort & Spa Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "BSM Holdings Inc.",
+    "ESTABLISHMENT": "Citadines Bay City Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "C&C Tours & Destinations Inc.",
+    "ESTABLISHMENT": "Coco Beach Island Resort Puerto Galera"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Capitol Central Hotel Ventures Inc.",
+    "ESTABLISHMENT": "Seda Capitol Central Bacolod"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Casa Bocobo Hotel Inc.",
+    "ESTABLISHMENT": "Casa Bocobo Hotel Ermita"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Cathay Int'l. Resources Corp.",
+    "ESTABLISHMENT": "Marco Polo Plaza Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "CCLI Premier Hotels Inc.",
+    "ESTABLISHMENT": "Citadines Bacolod City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "CDC Millenium Management Services, Inc.",
+    "ESTABLISHMENT": "Citadines Millenium Ortigas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Cebu Insular Hotel Co. Inc. ",
+    "ESTABLISHMENT": "Seda Ayala Center Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Central Bloc Hotel Ventures Inc.",
+    "ESTABLISHMENT": "Seda Central Bloc - Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Christerton Properties Inc.",
+    "ESTABLISHMENT": "Bayfront Hotel Cebu - North Reclamation"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Christerton Properties Inc.",
+    "ESTABLISHMENT": "Bayfront Hotel Cebu - Capitol Site"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Ciudad Christia Resort Inc.",
+    "ESTABLISHMENT": "9 Waves San Mateo"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "CJH Suites Corporation",
+    "ESTABLISHMENT": "The Forest Lodge at Camp John Hay Baguio"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "CLI Hotels and Resorts Inc.",
+    "ESTABLISHMENT": "Lyf Cebu City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "CLI Premier Hotels International Incorporated",
+    "ESTABLISHMENT": "Citadines Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Club Punta Fuego Inc.",
+    "ESTABLISHMENT": "Club Punta Fuego Batangas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Coro Hotel",
+    "ESTABLISHMENT": "Coro Hotel Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Costabella Corporation",
+    "ESTABLISHMENT": "Costabella Tropical Beach Hotel"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "D'Archbishop Realty Corp.",
+    "ESTABLISHMENT": "The Hotel Elizabeth"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Dauin Silver Reef Dive Resort Inc.",
+    "ESTABLISHMENT": "Silver Reef Dive Resorts Dauin"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Deluxe Hotels and Recreation Inc.",
+    "ESTABLISHMENT": "Hilton Manila Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Designer Hotels Inc.",
+    "ESTABLISHMENT": "The Tides Hotel Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Discovery World Corporation",
+    "ESTABLISHMENT": "Discovery Shores Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Donggwang Clark Corporation",
+    "ESTABLISHMENT": "Hilton Clark Sun Valley Resort"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Donggwang Clark Corporation",
+    "ESTABLISHMENT": "D'Heights Resort and Casino Clark"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Edsa Shangri-La Hotel & Resort Inc.",
+    "ESTABLISHMENT": "Edsa Shangri-La Manila "
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Alabang) Inc.",
+    "ESTABLISHMENT": "Hop Inn Hotel Alabang"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Aseana) Inc.",
+    "ESTABLISHMENT": "Hop Inn Hotel Aseana"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Cebu), Inc.",
+    "ESTABLISHMENT": "Holiday Inn Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Cebu), Inc.",
+    "ESTABLISHMENT": "Hop Inn Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Ermita) Inc.",
+    "ESTABLISHMENT": "Hop Inn Hotel Ermita"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Makati) Inc.",
+    "ESTABLISHMENT": "Hop Inn Hotel Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Ortigas) Inc.",
+    "ESTABLISHMENT": "Hop Inn Hotel Ortigas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Erawan Philippines (Quezon City) Inc.",
+    "ESTABLISHMENT": "Hop Inn Hotel Quezon City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Euro Pacific Resorts, Inc.",
+    "ESTABLISHMENT": "Club Paradise Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Fora Services Inc.",
+    "ESTABLISHMENT": "Quest Hotel Tagaytay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Frontier Ortigas Hotel And Resort Corporation",
+    "ESTABLISHMENT": "Marco Polo Ortigas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Goh Management Inc.",
+    "ESTABLISHMENT": "Harolds Evotel Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Grand Hotelier Inc.",
+    "ESTABLISHMENT": "Terra Hotel Kawit"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Grand Pine Inc.",
+    "ESTABLISHMENT": "Somerset Central Salcedo Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Grand Plaza Hotel Corporation",
+    "ESTABLISHMENT": "The Heritage Hotel Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Grand Westside Hotel Inc.",
+    "ESTABLISHMENT": "Grand Westside Hotel"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Green Sun Hotel Management Inc.",
+    "ESTABLISHMENT": "Green Sun Building Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Greenhaven Property Ventures Inc.",
+    "ESTABLISHMENT": "Holiday Inn & Suites Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Hann Philippines Inc.",
+    "ESTABLISHMENT": "Clark Marriott Hotel Pampanga"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Hann Philippines Inc.",
+    "ESTABLISHMENT": "Hann Casino Resort Clark"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Hospitality Resources Inc.",
+    "ESTABLISHMENT": "The Reef Island Resort Mactan Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Hotel Enterprise of the Philippines Inc.",
+    "ESTABLISHMENT": "Midas Hotel and Casino Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Hotel Lucky Chinatown Inc.",
+    "ESTABLISHMENT": "Hotel Lucky Chinatown Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Jeco Development Corporation",
+    "ESTABLISHMENT": "Four Points by Sheraton Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "JG Jinmen Leisures Corporation",
+    "ESTABLISHMENT": "Citadines Roces"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Karuna El Nido Villas Inc.",
+    "ESTABLISHMENT": "Karuna El Nido Villas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Kasile Hills Resort Inc.",
+    "ESTABLISHMENT": "Kasile Hills Nature Resort & Events Venue Laguna"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Kawayan Cliff Resort",
+    "ESTABLISHMENT": "Kawayan Cliff Resort Misamis Oriental"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Kingsford Hotel Manila Inc.",
+    "ESTABLISHMENT": "Kingsford Hotel Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "KL Tower Rental Management Corporation",
+    "ESTABLISHMENT": "KL Tower Serviced Residences Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Landco Pacific Corporation",
+    "ESTABLISHMENT": "Playa Laiya Beach Club Batangas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Legaspi Villageland Properties Inc.",
+    "ESTABLISHMENT": "Citadines Benavidez Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Luana Lifestyle and Leisure Hotel Inc.",
+    "ESTABLISHMENT": "Hue Hotels and Resorts Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Lucky Star Hotel and Recreation Inc.",
+    "ESTABLISHMENT": "Sheraton Manila Hotel Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Mactan Shangri-La Hotel & Resort Inc.",
+    "ESTABLISHMENT": "Shangri-La Mactan Hotel Resort and Spa Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Makati Shangri-La Hotel & Resort, Inc.",
+    "ESTABLISHMENT": "Shangri-La Hotel Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Makati Shangri-La Hotel & Resort, Inc.",
+    "ESTABLISHMENT": "Shangri-La Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Bonifacio Landmark Corporation",
+    "ESTABLISHMENT": "Grand Hyatt Manila BGC"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Malate Tourist Development Corp.",
+    "ESTABLISHMENT": "Victoria Court Malate"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Mana Inc.",
+    "ESTABLISHMENT": "Manami Resort Sipalay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Manila Hotel Corporation",
+    "ESTABLISHMENT": "Manila Hotel"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Maranaw Hotels and Resort Corporation",
+    "ESTABLISHMENT": "Century Park Hotel Malate"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Melco Resorts Leisure (Php) Corporation",
+    "ESTABLISHMENT": "City of Dreams Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Millenial Resorts Corporation",
+    "ESTABLISHMENT": "Crusoe Cabins Calatagan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "MJC Investments Corporation",
+    "ESTABLISHMENT": "Winford Hotel and Casino Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "New World International Development Philippines Incorporated",
+    "ESTABLISHMENT": "New World Makati Hotel"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Newport World Resorts/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Marriott Hotel Manila Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Newport World Resorts/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Marriott West Wing Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Newport World Resorts/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Garden Wing Casino Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Newport World Resorts/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Grand Wing Casino Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Newport World Resorts/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Holiday Inn Express Manila Newport City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "North Triangle Hotel Venture Inc.",
+    "ESTABLISHMENT": "Seda Vertis North Quezon City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Northbelle Properties Inc.",
+    "ESTABLISHMENT": "B Hotel Quezon City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Northgate Hotel Ventures Inc.",
+    "ESTABLISHMENT": "Seda Centrio Cagayan De Oro"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Nuvopiazza Ventures Inc.",
+    "ESTABLISHMENT": "Privato Hotel Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Ocean and Fountain Park Philippines Inc.",
+    "ESTABLISHMENT": "Hotel H2O Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Oikonomos Int'l. Resources Corporation",
+    "ESTABLISHMENT": "Movenpick Hotel Mactan Island Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Pamalican Resort Inc.",
+    "ESTABLISHMENT": "Amanpulo Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Pangulasian Island Resort Corp.",
+    "ESTABLISHMENT": "Pangulasian Island Resort Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Park Inn by Radisson Iloilo",
+    "ESTABLISHMENT": "Park Inn by Radisson Iloilo"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Philippine BXT Corporation",
+    "ESTABLISHMENT": "Jpark Island Resort And Waterpark Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Philippine Diamond Hotel & Resort Inc.",
+    "ESTABLISHMENT": "Diamond Hotel Philippines Malate"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Pico De Loro Beach and Country Club Inc.",
+    "ESTABLISHMENT": "Pico Sands Beach & Country Club Batangas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Plantation Bay Holdings Corporation",
+    "ESTABLISHMENT": "Plantation Bay Resort and Spa"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Premier Central Inc.",
+    "ESTABLISHMENT": "Park Inn by Radisson Clark"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Prestige Hotels and Resorts Inc.",
+    "ESTABLISHMENT": "Richmonde Hotel Iloilo"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Prestige Hotel/Resort/Inns and Resorts Inc.",
+    "ESTABLISHMENT": "Eastwood Richmonde Hotel"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Prestige Hotel/Resort/Inns and Resorts Inc.",
+    "ESTABLISHMENT": "Richmonde Hotel Ortigas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Prive Properties Development, Inc.",
+    "ESTABLISHMENT": "Privato Hotel Ortigas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Property Specialists Resources Inc.",
+    "ESTABLISHMENT": "Quest Hotel & Conference Center Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Proyectos Corp.",
+    "ESTABLISHMENT": "Pine Valley Tagaytay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Quantuvis Resources Corporation",
+    "ESTABLISHMENT": "Joy-Nostalg Hotel and Suites Manila "
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Quest Restaurant Inc.",
+    "ESTABLISHMENT": "Quest Hotel & Conference Center Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Robinsons Land Corporation",
+    "ESTABLISHMENT": "Dusit Thani Mactan Resort "
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Robinsons Land Corporation",
+    "ESTABLISHMENT": "Crowne Plaza Manila Galleria "
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Robinsons Land Corporation",
+    "ESTABLISHMENT": "Holiday Inn Manila Galleria "
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Robinsons Land Corporation",
+    "ESTABLISHMENT": "The Westin Manila Pasig"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Rockwell Land Corporation - Rockwell Hotel/Resort/Inns and Leisure Management Corp.",
+    "ESTABLISHMENT": "Aruga Apartments by Rockwell Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Room Ventures Corp.",
+    "ESTABLISHMENT": "Privato Hotel Quezon City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Roxaco Land Corporation",
+    "ESTABLISHMENT": "Anya Resort Tagaytay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Roxaco-Asia Hospitality Corporation",
+    "ESTABLISHMENT": "Go Hotels"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Samal Shores, Inc.",
+    "ESTABLISHMENT": "Discovery Samal Davao"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Savoy Hotel Boracay Inc.",
+    "ESTABLISHMENT": "Savoy Hotel Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Savoy Hotel Mactan",
+    "ESTABLISHMENT": "Savoy Hotel Mactan Newtown"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Savoy Hotel Manila Inc.",
+    "ESTABLISHMENT": "Savoy Hotel Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Scottland Leisure Inc.",
+    "ESTABLISHMENT": "The Lind Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Serenity View Resort Property Inc.",
+    "ESTABLISHMENT": "Escala Tagaytay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Shang Global City Properties Inc.",
+    "ESTABLISHMENT": "Shangri-La at the Fort Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Sleep Well More Fun Corporation",
+    "ESTABLISHMENT": "Lub D Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Radisson Blu Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Radisson Davao"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Taal Vista Hotel Tagaytay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Park Inn by Radisson North Edsa"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Conrad Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Pico Sands Hotel Batangas"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SMPI Makati Flagship Realty Corporation",
+    "ESTABLISHMENT": "Makati Diamond Residences"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Sofitel Philippine Plaza",
+    "ESTABLISHMENT": "Sofitel Philippine Plaza Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Southcrest Hotel Ventures Inc.",
+    "ESTABLISHMENT": "Seda Abreeza Hotel Davao"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "SQ Resources Inc.",
+    "ESTABLISHMENT": "Somerset Millenium Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "St. Giles Hotel Manila Inc.",
+    "ESTABLISHMENT": "St. Giles Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Star Anise Properties Corporation",
+    "ESTABLISHMENT": "Somerset Alabang"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Summit Hotel and Resort Specialist Inc.",
+    "ESTABLISHMENT": "Movenpick Resort & Spa Boracay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Sureste Properties Inc.",
+    "ESTABLISHMENT": "Solaire Resort and Casino Parañaque "
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Sureste Properties Inc.",
+    "ESTABLISHMENT": "Solaire Resort North Quezon City"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Tag Hotels & Resorts Inc.",
+    "ESTABLISHMENT": "Tag Resort Coron Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Tagaytay Highlands Int'l. Golf Club Inc.",
+    "ESTABLISHMENT": "Tagaytay Highlands"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Tasaday Realty Development Corporation",
+    "ESTABLISHMENT": "G1 Lodge Baguio"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Ten Knots Development Corporation",
+    "ESTABLISHMENT": "Lagen Island Resort & Dibuluan Beach Club Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Ten Knots Development Corporation",
+    "ESTABLISHMENT": "Miniloc Island Resort & Entuala Beach Club Palawan"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "The Beach Houses of Dauin Inc.",
+    "ESTABLISHMENT": "Salaya Beach Houses Negros Oriental"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Tiger Resort Leisure And Entertainment Inc.",
+    "ESTABLISHMENT": "Okada Manila Parañaque"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Torre Lorenzo Development Corporation",
+    "ESTABLISHMENT": "Lyf Malate Manila"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Hotel Okura Pasay"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Courtyard by Marriott Iloilo"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Tytans Leisure & Resorts Inc.",
+    "ESTABLISHMENT": "Tambuli Seaside Resort & Spa Cebu"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Valero Prime Land Realty Dev't. Corp.",
+    "ESTABLISHMENT": "Citadines Salcedo Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Vivotel Corporation ",
+    "ESTABLISHMENT": "Holiday Inn Baguio City Centre"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "WJ Global, Inc.",
+    "ESTABLISHMENT": "Ascott BGC"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "World Hotel Makati Inc.",
+    "ESTABLISHMENT": "I'm Hotel Makati"
+  },
+  {
+    "CATEGORY": "Hotel/Resort/Inn",
+    "COMPANY": "Xenia Hotel",
+    "ESTABLISHMENT": "Xenia Hotel Clark"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "1988 Restaurant Corporation",
+    "ESTABLISHMENT": "Amber Marilao"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "5BDF Corporation",
+    "ESTABLISHMENT": "New York Buffalo Brad's Hot Wings"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "5BDF Corporation",
+    "ESTABLISHMENT": "Wingers Limited - Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "8 Hands Concepts OPC",
+    "ESTABLISHMENT": "Subway Seaoil C5"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "888 Mela & Mai Inc.",
+    "ESTABLISHMENT": "Maura's Place by Mela & Mai Antipolo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "A. Taberna Foods Inc.",
+    "ESTABLISHMENT": "Ka Tunying's Visayas Avenue/Tagaytay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Abaca Baking Concepts Inc.",
+    "ESTABLISHMENT": "Abaca Baking Company"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "ACC Top Food Ventures Corporation",
+    "ESTABLISHMENT": "UCC Clockwork Vertis North/Bacolod"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Affogato Corp.",
+    "ESTABLISHMENT": "Gelatissimo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "After Six Dessert & Coffee Inc.",
+    "ESTABLISHMENT": "Pho Hoa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Afthonia Food Inc.",
+    "ESTABLISHMENT": "The Old Spaghetti House Café Ayala Feliz"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Agape Shrimp Shack Inc.",
+    "ESTABLISHMENT": "The Shrimp Shack SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "ALC Bistro Inc.",
+    "ESTABLISHMENT": "Annabel Lee Café Estancia Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Alex and Engracia Legacy Corp.",
+    "ESTABLISHMENT": "The Aristocrat Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Alitosh Food Corporation",
+    "ESTABLISHMENT": "The Old Spaghetti House Alimall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Almon Marina Inc.",
+    "ESTABLISHMENT": "Almon Marina"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Ambiance & Style Bar Corp.",
+    "ESTABLISHMENT": "Ambiance Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Amici Foodservice Ventures Inc.",
+    "ESTABLISHMENT": "Amici"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Am-Phil Foods Concept Inc.",
+    "ESTABLISHMENT": "Chili's"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Ang Bigas Inc.",
+    "ESTABLISHMENT": "Kanin Club"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Armor Et Argoat Inc.",
+    "ESTABLISHMENT": "Café Breton Magallanes/TriNoma"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "B90 Gorilla In Manila Corporation",
+    "ESTABLISHMENT": "Grilla SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bacolod Chicken Inasal",
+    "ESTABLISHMENT": "Bacolod Chicken Inasal"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bardstown Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bardstown Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Advincula Kawit"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bartle Beyl Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bartle Beyl Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Sta. Rita Guiguinto/Gapan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bartle Beyl Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Sta. Maria By Pass"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bartle Beyl Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Mangatarem Pangasinan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bawbawon Hospitality Group Inc.",
+    "ESTABLISHMENT": "Creperie De Plaridel/Le Bistro"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bay City Prime Grills, Inc.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bean Park Café",
+    "ESTABLISHMENT": "Bean Park Café Cagayan De Oro"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Berjaya Paris Baguette Philippines",
+    "ESTABLISHMENT": "Paris Baguette Boulangerie SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Beyondconcepts Inc.",
+    "ESTABLISHMENT": "Hanamaruken/Poison Coffee/Scout's Honor/Tsukemen/Bad Bird"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bicutan Grillin Inc.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar SM Bicutan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Big Kahuna Inc.",
+    "ESTABLISHMENT": "Pho Hoa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bistro Americano Group",
+    "ESTABLISHMENT": "Red Lotus by Modern Shang BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bob Marlin Restaurant & Grill",
+    "ESTABLISHMENT": "Bob Marlin Restaurant & Grill Naga"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bravefoods Global Concepts Holdings Inc.",
+    "ESTABLISHMENT": "BLK 513"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Breadtalk Philippines",
+    "ESTABLISHMENT": "Breadtalk"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Bring The Community Together Co.",
+    "ESTABLISHMENT": "Group and Boiler Coffee Co. Molito"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Cafe Elim Central",
+    "ESTABLISHMENT": "Elim Central "
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Cafefrance Corp.",
+    "ESTABLISHMENT": "Café France/Tempura Japanese Grill/Holy Cow/Congo Grille"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Camilla Camomot",
+    "ESTABLISHMENT": "Mimo Café Cagayan De Oro"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Casa Kaos Corporation",
+    "ESTABLISHMENT": "Roots Restaurant & Plastic Kitchen Siargao"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Cavallino Inc.",
+    "ESTABLISHMENT": "Racks/Rackshack"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Cavite First Food Ventures Inc.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar Robinsons Cavite"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Ceb Maya Koncepts Inc.",
+    "ESTABLISHMENT": "Red Lizard Maya"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Chazania Food Corporation",
+    "ESTABLISHMENT": "Coco Fresh Tea and Juice Sta. Mesa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Chicha Hut Food Corp.",
+    "ESTABLISHMENT": "Angrydobo Westgate Alabang/Taft"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Choobi Choobi Flavors Corporation",
+    "ESTABLISHMENT": "Choobi Choobi/Kogi-Q/Bukid Tres by Choobi Choobi"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Coffee Masters Inc.",
+    "ESTABLISHMENT": "Seattle's Best Coffee"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Coffee Project",
+    "ESTABLISHMENT": "Coffee Project"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Coffeecreatives Corporation",
+    "ESTABLISHMENT": "Ghost Coffee Café, Events & Collab Space Antipolo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Contemporain Foods, Inc.",
+    "ESTABLISHMENT": "J.Co Donuts & Coffee"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Corlfee Café ",
+    "ESTABLISHMENT": "Wiltlover Café Fairview Terraces"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Creathink Marketing Corp.",
+    "ESTABLISHMENT": "Cabalen/Soi/Mangan/Tsurumaru/Sukiya/Eats Pinoy"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Crema & Cream Coffee Co. Inc.",
+    "ESTABLISHMENT": "Crema & Cream Café Bistro + Coffee Lab Timog"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Culinary Central Inc.",
+    "ESTABLISHMENT": "The Aristocrat Restaurant Quezon City Circle"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Culinary Events Inc.",
+    "ESTABLISHMENT": "Sentro 1771 Capitol Commons"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Culinary Events Inc.",
+    "ESTABLISHMENT": "Sentro 1771 Greenbelt 5"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Davao Coffee Ventures Inc.",
+    "ESTABLISHMENT": "UCC Cafe Terrace Davao"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Dr. Wine BGC Corp.",
+    "ESTABLISHMENT": "Dr. Wine BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Eat Up Mnl Inc.",
+    "ESTABLISHMENT": "Titto's Latin BBQ & Brew Kapitolyo/Greenhills"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Emunah Food Corp.",
+    "ESTABLISHMENT": "The Old Spaghetti House Robinsons Antipolo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Epangelia Tosh Food Corp.",
+    "ESTABLISHMENT": "The Old Spaghetti House SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Epicurean Partners Exchange Inc.",
+    "ESTABLISHMENT": "Kenny Rogers Roasters"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Erka Food and Beverage Trading",
+    "ESTABLISHMENT": "Wiltlover Café Ayala Circuit"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Estrat Media Global OPC",
+    "ESTABLISHMENT": "Subway Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "ETM Coffee King Inc.",
+    "ESTABLISHMENT": "UCC Clockwork The Viridian Greenhills/UCC Cafe Terrace Santolan Town Plaza"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Evimero Food Inc.",
+    "ESTABLISHMENT": "The Old Spaghetti House Cafe Katipunan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Fameinflame Corp.",
+    "ESTABLISHMENT": "Bad Bird & Tsukemen Robinsons Ermita"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "FB Resto Inc.",
+    "ESTABLISHMENT": "Pho Hoa/My Thai"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Federal Brent Mall/Retail Inc. (Subway)",
+    "ESTABLISHMENT": "Subway Capital Towers Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Federal Brent Mall/Retail Inc. (Subway)",
+    "ESTABLISHMENT": "Subway Bluewave Marikina"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Federal Brent Mall/Retail Inc. (Subway)",
+    "ESTABLISHMENT": "Subway Macapagal Pasay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Finistere Inc.",
+    "ESTABLISHMENT": "Café Breton Paseo De Sta. Rosa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "First Philippine Realty Corporation",
+    "ESTABLISHMENT": "Oscar's at the Eugenio Lopez Center Pasig"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Flotsam and Jetsam",
+    "ESTABLISHMENT": "Flotsam and Jetsam La Union"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Foodfull Holdings Inc.",
+    "ESTABLISHMENT": "The Grid Food Market Rockwell"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Foodiesandfriends Inc.",
+    "ESTABLISHMENT": "Hanamaruken Serendra"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Foodparks by Raintree Inc.",
+    "ESTABLISHMENT": "Izakaya Sensu/Chotto Matte Net Park BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Foodparks by Raintree Inc.",
+    "ESTABLISHMENT": "Providore SM Aura"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Foodparks by Raintree Inc.",
+    "ESTABLISHMENT": "Family & Friends/The Coconut Club BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Forward Coffee Co. Inc.",
+    "ESTABLISHMENT": "Coffee Syndicate Muntinlupa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Fresh N' Famous Foods Inc.",
+    "ESTABLISHMENT": "Greenwich"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Fresh N' Famous Foods Inc.",
+    "ESTABLISHMENT": "Chowking"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Frontlake Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Frostfive Inc.",
+    "ESTABLISHMENT": "BLK 513/FRNK Milk Bar"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "GBA & JTN Corporation",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar Marquee Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Global Dimsum Food Corporation",
+    "ESTABLISHMENT": "Tim Ho Wan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Gogrow Fresh OPC",
+    "ESTABLISHMENT": "Subway Imus/Kawit"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Golden Arches Development Corporation",
+    "ESTABLISHMENT": "McDonald's Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Golden Donuts, Inc.",
+    "ESTABLISHMENT": "Dunkin Donuts"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Golden Healthy Food - Cloverleaf Inc.",
+    "ESTABLISHMENT": "Golden Baboy Cloverleaf"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Golden Healthy Food - Cubao Inc.",
+    "ESTABLISHMENT": "Golden Baboy Araneta"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Golden Healthy Food - Maginhawa Inc.",
+    "ESTABLISHMENT": "Golden Baboy Maginhawa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Goyujin Inc.",
+    "ESTABLISHMENT": "Coco Fresh Tea and Juice Rockwell"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Grantline Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Greenexpress Food Corp.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar Greenbelt 3"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Grilla Antipolo Food Corporation",
+    "ESTABLISHMENT": "Grilla Antipolo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Grilled Cheesery Molito Inc.",
+    "ESTABLISHMENT": "Melt Grilled Cheesery Molito"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Gwenn Ha Du Inc.",
+    "ESTABLISHMENT": "Café Breton Westgate Alabang"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Hallie's Kitchenette",
+    "ESTABLISHMENT": "Hallie's Kitchenette Pasig/Maybunga"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Hana Specialty Foods OPC",
+    "ESTABLISHMENT": "Hobing Korean Dessrt Café Glorietta 4"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Hansbury Inc.",
+    "ESTABLISHMENT": "Tokyo Tokyo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "HC Restaurant Mgt. Corp.",
+    "ESTABLISHMENT": "Hap Chan West Ave."
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Hokkaido Ramen Philippines Inc.",
+    "ESTABLISHMENT": "Hokkaido Ramen Santouka"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Holy Cow Chophouse Inc.",
+    "ESTABLISHMENT": "Pho Hoa/My Thai Kitchen "
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Howlings Holding Corp.",
+    "ESTABLISHMENT": "Public Eatery Robinsons Magnolia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Hungryboos Inc.",
+    "ESTABLISHMENT": "Bad Café Makati"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Hungryfoodies Concepts Inc.",
+    "ESTABLISHMENT": "Hanamaruken Estancia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "I-Foods Group Inc.",
+    "ESTABLISHMENT": "Torimono Japanese Barbeque Robinsons Ermita"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "I-Foods Group Inc.",
+    "ESTABLISHMENT": "Ichiba Japanese Market Newport Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "I-Foods Group Inc.",
+    "ESTABLISHMENT": "Tokyo Milk Cheese Factory Ayala Manila Bay/Estancia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "I-Foods Group Inc.",
+    "ESTABLISHMENT": "Japan Fudo Street Ayala Manila Bay/Vertis North"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Ikitchen Inc.",
+    "ESTABLISHMENT": "Kuya J"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Illo's Home Restaurant",
+    "ESTABLISHMENT": "Illo's Home Parañaque"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Imperial Kitchen Group",
+    "ESTABLISHMENT": "Jiang Nan Hotpot"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Jack's Loft Dessert Bar Inc.",
+    "ESTABLISHMENT": "Pho Hoa/Jack's Loft"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "James Fausto Corp.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar Subic"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Jarandjam Inc.",
+    "ESTABLISHMENT": "Your Local Makati"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Jcg Marketing Group Inc.",
+    "ESTABLISHMENT": "Godel Chocolate Ayala Manila Bay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Jess Fine Foods Inc.",
+    "ESTABLISHMENT": "Jipan Café and Bakeshop"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Jimsy Corporation",
+    "ESTABLISHMENT": "Ziggurat Restaurant Makati"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Jollibee Foods Corporation",
+    "ESTABLISHMENT": "Jollibee"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "JPRB (James Patrick R. Bondoc) Co.",
+    "ESTABLISHMENT": "Aromata Restaurant and Bar Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "K Star Cuisine Inc.",
+    "ESTABLISHMENT": "Pepper Lunch UP Town Center"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Kanagawa Corporation",
+    "ESTABLISHMENT": "Soltea Mactan Resort - Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Kasidlakan Inc.",
+    "ESTABLISHMENT": "Handuraw Pizza"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Kitrino Koudouni Holdings Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Ayala The 30th"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "KKK Pinoy Food Revolution",
+    "ESTABLISHMENT": "KKK Pinoy Food Revolution SM Megamall/SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Knoxport Inc. - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Kodawari Ice Cream Company Corp.",
+    "ESTABLISHMENT": "Mad Mark's Creamery & Coffee/Molly's Donuts & Brunch Café"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Kuya's At QC Restaurant",
+    "ESTABLISHMENT": "Kuya's At QC Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Kuya's Grill House",
+    "ESTABLISHMENT": "Kuya's Grill House Makati"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "L'Entrecote Corporation",
+    "ESTABLISHMENT": "L'Entrecote Restaurant BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Leona Food Ventures Corp.",
+    "ESTABLISHMENT": "Leona Cakes & Pastries"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Linked Coffee Corporation",
+    "ESTABLISHMENT": "Kandle Café Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "LMG GB5 Food Ventures Inc.",
+    "ESTABLISHMENT": "Mesa Greenbelt 5"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Lsa and B Corporation",
+    "ESTABLISHMENT": "Cofeebay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "M & H Food Corporation",
+    "ESTABLISHMENT": "Henlin Mami House"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Macgrill Food Corp.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar Aseana"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Maningning Ventures Philippines Inc.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar SM San Jose"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Manok Ko Po Inc.",
+    "ESTABLISHMENT": "JT's Manukan Grille"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Marina Seaview Resto Lounge Corp.",
+    "ESTABLISHMENT": "Marina Seaview/The Salty Wharf"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Mary Grace Foods Inc.",
+    "ESTABLISHMENT": "Mary Grace Café"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Max's Group Inc.",
+    "ESTABLISHMENT": "Pancake House"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Max's Kitchen Inc.",
+    "ESTABLISHMENT": "Max's Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Megacity Prime Grill, Inc.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar SM Megamall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Melt Grilled Cheesery Incorporation",
+    "ESTABLISHMENT": "Melt Grilled Cheesery Uptown Place Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Menarco Development Corporation",
+    "ESTABLISHMENT": "The Yard at Menarco Tower Taguig"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "MH F&B Ideas Inc.",
+    "ESTABLISHMENT": "Cowrie Grill San Juan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Mom & Tina's Bakery Café Corporation",
+    "ESTABLISHMENT": "Mom & Tina's Bakery Café"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Moment Group Inc.",
+    "ESTABLISHMENT": "8 Cuts Burger/Manam/Oomanam/Ooma/Din Tai Fung/Bank Bar"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Myfoodgoddess Inc./Hill Station Inc.",
+    "ESTABLISHMENT": "Hill Station Restaurant/Bistro by Hill Station Baguio"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Mykc Café ",
+    "ESTABLISHMENT": "Café Elim"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Naught But Nice Corp.",
+    "ESTABLISHMENT": "Bad Bird Serendra"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Neighborfoodies Inc.",
+    "ESTABLISHMENT": "Latitude Bean+Bar Malate"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Nimo Premium Brew Corporation",
+    "ESTABLISHMENT": "Nimo Craft Brew Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "No Pizza No Life Corp.",
+    "ESTABLISHMENT": "Pizza Express Uptown Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Noc Specialty Foods Inc.",
+    "ESTABLISHMENT": "Conti's Bakeshop & Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Oakridge Realty Development Corporation",
+    "ESTABLISHMENT": "Oakridge Horizons Café/Oakridge Executive Club/Oakridge Pavilion Garden Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Octave Group Inc./Playnetwork LLC",
+    "ESTABLISHMENT": "Pinkberry"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "One World and Seven Seas Culinary Inc.",
+    "ESTABLISHMENT": "Malongo Atelier Barista Philippines One Bonifacio High Street/Mckinley West"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Optisubs Restaurant",
+    "ESTABLISHMENT": "Subway SM BF Parañaque"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Orora Inc.",
+    "ESTABLISHMENT": "Magdamag Market Café Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Our Angels Kitchen Café Corp.",
+    "ESTABLISHMENT": "Kape Benito Community Café"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Patakids Inc.",
+    "ESTABLISHMENT": "Barrio Fiesta Ali Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Peper Broers, Inc.",
+    "ESTABLISHMENT": "Pepper Lunch"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pepper Tree Foods",
+    "ESTABLISHMENT": "Pepper Tree Foods Katipunan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Perf Restaurants Inc.",
+    "ESTABLISHMENT": "Burger King"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Phat Pho Inc.",
+    "ESTABLISHMENT": "Phat Pho"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Philippine 1Faith Corporation",
+    "ESTABLISHMENT": "Seven BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pho Bang Inc.",
+    "ESTABLISHMENT": "Pho Hoa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pho Hoa Inc.",
+    "ESTABLISHMENT": "Pho Hoa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pho It Inc.",
+    "ESTABLISHMENT": "Pho Hoa/Lemon Grass"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pho Nam Inc.",
+    "ESTABLISHMENT": "Pho Hoa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pho No. 1 Inc.",
+    "ESTABLISHMENT": "Pho Hoa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pho Viet Vietnamese Noodle House Inc.",
+    "ESTABLISHMENT": "Pho Hoa/Jack's Loft"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Pino 77 Foods Corporation",
+    "ESTABLISHMENT": "Limbaga 77 Resto Bar Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Platinum Eagle Grillers Corp.",
+    "ESTABLISHMENT": "Gerry's Grill Abreeza Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "PLK Philippines, Inc.",
+    "ESTABLISHMENT": "Popeye's"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Port San Juan ",
+    "ESTABLISHMENT": "Port San Juan "
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "PPI Holdings Inc.",
+    "ESTABLISHMENT": "Dairy Queen"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "PPI Holdings Inc.",
+    "ESTABLISHMENT": "Taco Bell"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "PPI Holdings, Inc.",
+    "ESTABLISHMENT": "Pizza Hut"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Prime Beverage Corporation",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar Tomas Morato"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Protos Cyma Greek Taverna Corp./Trito Cyma Greek Estiatorio Corp./Ektos Cyma Greek Taverna Corp./Ebdomos Cyma Greek Taverna Corp.",
+    "ESTABLISHMENT": "Cyma/Souv! by Cyma"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Purple 7 Café",
+    "ESTABLISHMENT": "Purple 7 Café Tomas Morato"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "PXI Eats, Inc.",
+    "ESTABLISHMENT": "Figaro Tacloban"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Queen Tiger Foods Corporation",
+    "ESTABLISHMENT": "UCC Cafe Terrace Marina Town Dumaguete"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Ramcarlyn Corporation",
+    "ESTABLISHMENT": "Subway SM Sta. Rosa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Riselaw Restaurant Inc.",
+    "ESTABLISHMENT": "People's Palace Greenbelt 3"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Riselaw Restaurant Inc.",
+    "ESTABLISHMENT": "Sala Bistro Greenbelt 3"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "RJV Restaurant Group of Companies",
+    "ESTABLISHMENT": "Hot Star Fried Chicken Blue Bay Walk/Recto"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Rogue Squadron 5 Inc.",
+    "ESTABLISHMENT": "Caravan Black Coffee Company BGC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Romantic Holdings and Restaurant Supplies Inc.",
+    "ESTABLISHMENT": "Romantic Baboy"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Roxas Food Ventures Inc.",
+    "ESTABLISHMENT": "The Aristocrat Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Royal Tiger Foods Inc.",
+    "ESTABLISHMENT": "UCC Park Cafe Gateway"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Rub Ribs & BBQ Inc.",
+    "ESTABLISHMENT": "Rub Ribs BBQ"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Ruins Inc.",
+    "ESTABLISHMENT": "Café By The Ruins"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Rustan Coffee Corporation",
+    "ESTABLISHMENT": "Starbucks Coffee"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Saer Corporation",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar SM Pampanga"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Sapphire Carnation Leisure And Recreation Corporation",
+    "ESTABLISHMENT": "Gordon Ramsey Bar & Grill Newport Pasay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Satchmigroup Inc.",
+    "ESTABLISHMENT": "Satchmi SM Megamall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "See The World Through Coffee Corporation",
+    "ESTABLISHMENT": "Angkan Coffee"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Seventhstrip Bistro",
+    "ESTABLISHMENT": "Seventhstrip Bistro UPTC"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "SGD Coffee OPC",
+    "ESTABLISHMENT": "Kapetolyo By SGD Coffee Ermita"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Shakey's Pizza Asia Ventures Inc.",
+    "ESTABLISHMENT": "Shakey's"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Shan International Incorporated",
+    "ESTABLISHMENT": "Rich Resto Bar Il Terrazo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Simply Fresh OPC",
+    "ESTABLISHMENT": "Subway Filinvest Axis"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Smakmaku Inc.",
+    "ESTABLISHMENT": "Scout's Honor Santolan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Soterion Food Corp.",
+    "ESTABLISHMENT": "The Shrimp Shack Robinsons Antipolo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Specialty Food Mall/Retailers Inc.",
+    "ESTABLISHMENT": "Shake Shack"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Specialty Food Mall/Retailers Inc.",
+    "ESTABLISHMENT": "Saladstop!"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Specialty Food Mall/Retailers Inc.",
+    "ESTABLISHMENT": "TWG Greenbelt 5"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Specialty Restaurants Inc.",
+    "ESTABLISHMENT": "Burgoo SM North/SM Marikina"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "SRI Food Delight Inc.",
+    "ESTABLISHMENT": "Burgoo"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Sucree Coco & Love Inc.",
+    "ESTABLISHMENT": "IDIM DIY Bakery Ayala Manila Bay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Sucree Coco & Love Inc.",
+    "ESTABLISHMENT": "IDIM DIY Bakery SM Megamall "
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Sucree Coco & Love Inc.",
+    "ESTABLISHMENT": "IDIM DIY Bakery SM North"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Supreme Vietnamese Coffee Inc.",
+    "ESTABLISHMENT": "Highlands Coffee Double Dragon"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Suyen Coporation",
+    "ESTABLISHMENT": "St. Marc Café/Paul Boulangerie/Bench Café"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tag Concession Services Inc.",
+    "ESTABLISHMENT": "Abaca Baking Company/The Kitchen/The Bakery/The Lounge/The Grounds"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tago Jazz Café",
+    "ESTABLISHMENT": "Tago Jazz Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tavolata Inc.",
+    "ESTABLISHMENT": "Tavolata"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tencav Corporation",
+    "ESTABLISHMENT": "Tenya Tempura Tendon"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Teology Cafe Corp.",
+    "ESTABLISHMENT": "Teology Cafe & Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Teriyaki Boy Group Inc.",
+    "ESTABLISHMENT": "Yellow Cab Pizza"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "The Aristocrat Franchise Corporation",
+    "ESTABLISHMENT": "The Aristocrat Restaurant SM San Lazaro"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "The Bistro Group of Restaurants",
+    "ESTABLISHMENT": "TGI Friday's/Bulgogi Brothers/Watami/Red Lobster/Buffalo Wild Wings/Denny's/El Pollo Loco/Italianni's/Fish & Co./Modern Shanghai/Texas Roadhouse/Hard Rock/The Test Kitchen/Savage/Helm/Tomatito/Rambla/Las Flores/BCN by Las Flores"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "The Real American Doughnut Company Inc.",
+    "ESTABLISHMENT": "Krispy Kreme"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "The Real American Doughnut Company Inc.",
+    "ESTABLISHMENT": "Jamba Juice"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "The Sky Edsa Grill Corp.",
+    "ESTABLISHMENT": "Gerry's Restaurant and Bar SM North"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "The Village Server Inc.",
+    "ESTABLISHMENT": "Rufo's Famous Tapa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Top Class Summer Bird Foods Inc.",
+    "ESTABLISHMENT": "The Civet Coffee Roasters"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Toshco Midtown Corporation",
+    "ESTABLISHMENT": "The Old Spaghetti House Robinsons Ermita"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tourch Co. Inc.",
+    "ESTABLISHMENT": "Torch Restaurant"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tribo - Food Ventures Inc.",
+    "ESTABLISHMENT": "Talisay The Garden Café Maginhawa"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Tuko Film Productions Inc.",
+    "ESTABLISHMENT": "Cinema 76 Café Anonas"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Umbo Corporation",
+    "ESTABLISHMENT": "390 Degrees Parañaque"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Umbo Corporation",
+    "ESTABLISHMENT": "Ombu Kusina Modern Filipino Restaurant Timog"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Umi No Café",
+    "ESTABLISHMENT": "Umi No Café Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Volcanic Express Grill Corporation",
+    "ESTABLISHMENT": "Gerry's Restaurant & Bar Tagaytay"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Wayne White Dining Group Inc.",
+    "ESTABLISHMENT": "Ila Puti - Cebu"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Well-Loved Seafood Harvest Inc.",
+    "ESTABLISHMENT": "Gumbo SM Megamall/Gateway"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Wenphil Corporation",
+    "ESTABLISHMENT": "Wendy's"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Wiltlover Café",
+    "ESTABLISHMENT": "Wiltlover Café Mandaluyong"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "WM Happy Foods Inc - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Trece Martires Capital"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "WM Happy Foods Inc - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Waltermart Caloocan"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "WM Happy Foods Inc - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines Makiling Calamba"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "WM Happy Foods Inc - KFC Philippines",
+    "ESTABLISHMENT": "KFC Philippines San Pascual Batangas"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Wow Brand Holdings Inc.",
+    "ESTABLISHMENT": "Peri-Peri Charcoal Chicken & Sauce Bar"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "WS and Landin, Inc.",
+    "ESTABLISHMENT": "Bo's Coffee"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Y Hotels and Resorts Group Inc.",
+    "ESTABLISHMENT": "Y Café Makati"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "YHK F&B Inc.",
+    "ESTABLISHMENT": "Samgyupsalamat"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Festival Mall",
+    "ESTABLISHMENT": "Yoshinoya Festival Mall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Jollibee Foods Inc.",
+    "ESTABLISHMENT": "Yoshinoya DD Meridian Park/Robinsons Ermita"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Jollibee Foods Inc.",
+    "ESTABLISHMENT": "Yoshinoya Eastwood"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Jollibee Foods Inc.",
+    "ESTABLISHMENT": "Yoshinoya Glorietta"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Jollibee Foods Inc.",
+    "ESTABLISHMENT": "Yoshinoya SM Grand Central"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Jollibee Foods Inc.",
+    "ESTABLISHMENT": "Yoshinoya SM Megamall"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yoshinoya Jollibee Foods Inc.",
+    "ESTABLISHMENT": "Yoshinoya SM North"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Yuqshiu Foods Corp.",
+    "ESTABLISHMENT": "La Spezia Quezon City"
+  },
+  {
+    "CATEGORY": "Restaurant",
+    "COMPANY": "Zark's Food Ventures Corp.",
+    "ESTABLISHMENT": "Zark's Burgers"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "1Sanbri Trading Inc.",
+    "ESTABLISHMENT": "Kpub BBQ Glorietta"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "ATM Mezcaleria Inc.",
+    "ESTABLISHMENT": "Atoda Madre Makati"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Baliwag Lechon Manok, Inc.",
+    "ESTABLISHMENT": "Turtles Family KTV"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Barcade Cool Concepts Inc.",
+    "ESTABLISHMENT": "Zion-1/Versus Barcade BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "C.O. Daltas Inc.",
+    "ESTABLISHMENT": "Cubana Pizza + Party"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Cardinal7 Nightclub Inc.",
+    "ESTABLISHMENT": "Lust Nightclub QC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Charcoal Food Services Inc.",
+    "ESTABLISHMENT": "Indus Modern Indian Kitchen/Unwined"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Chicago Electronic Equipment & Entertainment Corp.",
+    "ESTABLISHMENT": "Club Chicago Pasig"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Draft Punk Brewers & Skewers Inc.",
+    "ESTABLISHMENT": "Draft Punk Craft Café"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Eat Up Mnl Inc.",
+    "ESTABLISHMENT": "Rm 16 Pasig"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Epic Globalventures Corp.",
+    "ESTABLISHMENT": "Epic Boracay"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Handle Bar and Grill",
+    "ESTABLISHMENT": "Handle Bar and Grill Makati"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "In The Middle Corporation",
+    "ESTABLISHMENT": "Soy and Sesame Katipunan"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "J & P Foods Corporation",
+    "ESTABLISHMENT": "The Unknown Cafe, Bar and Restaurant Silang"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Les Gervil Organica Inc.",
+    "ESTABLISHMENT": "The Roofdeck Quezon City"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Maestro Entertainment Corporation",
+    "ESTABLISHMENT": "Bar IX Muntinlupa"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Malaya Bistro Bar & Restaurant",
+    "ESTABLISHMENT": "The 70's Bistro Bar Quezon City"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Meat Concepts Corporation",
+    "ESTABLISHMENT": "Kpub BBQ Cebu"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Music By The Bay Inc.",
+    "ESTABLISHMENT": "Centerstage Mall of Asia"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "One Million Food Concepts, Incorporated",
+    "ESTABLISHMENT": "Kpub BBQ The Fort"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Ortigas Commercial Corporation",
+    "ESTABLISHMENT": "Tiendesitas"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Padi's Point",
+    "ESTABLISHMENT": "Padi's Point Pasay"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Padi's Point",
+    "ESTABLISHMENT": "Padi's Point Dasmariñas"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Padi's Point",
+    "ESTABLISHMENT": "Padi's Point Antipolo Sumulong"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Padi's Point",
+    "ESTABLISHMENT": "Padi's Point Antipolo Circumferential"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Philippine Airlines, Inc.",
+    "ESTABLISHMENT": "Mabuhay Lounge"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Quattro",
+    "ESTABLISHMENT": "Quattro Timog"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Roadhouse Manila Bay Inc.",
+    "ESTABLISHMENT": "The Roadhouse Manila Bay Pasay"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Rockstar at Glo Food Ventures Inc.",
+    "ESTABLISHMENT": "Rockstar KTV Glorietta"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Rockstar by Centerstage Inc.",
+    "ESTABLISHMENT": "Rockstar KTV SM Aura"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Sensous O Inc.",
+    "ESTABLISHMENT": "Fabulous Obar Pasig"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Shahani's Resto Bar",
+    "ESTABLISHMENT": "The Beer Factory Centris"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Social Garden Bloc Inc.",
+    "ESTABLISHMENT": "The Park Social"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Tadcaster Social Inc.",
+    "ESTABLISHMENT": "The Social"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Fun Guys Corp.",
+    "ESTABLISHMENT": "The Fun Roof"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Microbrewery Company Inc.",
+    "ESTABLISHMENT": "Draft Restaurant & Bar Uptown BGC/Rockwell"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Palace Day & Night Resto Inc.",
+    "ESTABLISHMENT": "Clubhouse BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Palace Day & Night Resto Inc.",
+    "ESTABLISHMENT": "Revel BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Palace Day & Night Resto Inc.",
+    "ESTABLISHMENT": "Yes Please BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Palace Day & Night Resto Inc.",
+    "ESTABLISHMENT": "B.A.D Late Night Breakfast Bar BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The Twelve Monkeys Inc.",
+    "ESTABLISHMENT": "12 Monkeys Music Hall and Pub Pasig"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The World's Finest Liquor Inc.",
+    "ESTABLISHMENT": "Davao Whisky Park"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "The World's Finest Liquor Inc.",
+    "ESTABLISHMENT": "McKinley Whisky Park"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Tipsy Pig Gastropub BGC",
+    "ESTABLISHMENT": "Tipsy Pig BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Tipsy Pig Gastropub Pasig",
+    "ESTABLISHMENT": "Tipsy Pig Gastropub Pasig"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Tipsy Pig Gastropub Timog",
+    "ESTABLISHMENT": "Tipsy Pig Gastropub Timog"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Universale Day and Night Club Inc.",
+    "ESTABLISHMENT": "Xylo at The Palace BGC"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Unknown13 Gastropub",
+    "ESTABLISHMENT": "Unknown13 Gastropub Quezon City"
+  },
+  {
+    "CATEGORY": "Music Lounge",
+    "COMPANY": "Vera Fnb Group Corporation",
+    "ESTABLISHMENT": "District One Gastrolounge BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "2 L.O.G. Holdings Inc.",
+    "ESTABLISHMENT": "Silverworks"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "365 Designs Mall/Retailing Inc.",
+    "ESTABLISHMENT": "Straightforward"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "5th Wall, Inc.",
+    "ESTABLISHMENT": "Olympic Village"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Abenson Ventures Inc.",
+    "ESTABLISHMENT": "Abenson Home W Mall Macapagal"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Abenson Ventures Inc.",
+    "ESTABLISHMENT": "Automatic Centre"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Abenson Ventures, Inc.",
+    "ESTABLISHMENT": "Abenson"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Accendo Commercial Corporation",
+    "ESTABLISHMENT": "Abreeza Davao"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ace Hardware Philippines Inc.",
+    "ESTABLISHMENT": "Ace Hardware/Ace Builder"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "ACI Inc.",
+    "ESTABLISHMENT": "New Farmers Plaza Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "ACI Inc.",
+    "ESTABLISHMENT": "Ali Mall Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "ACI Inc.",
+    "ESTABLISHMENT": "Gateway Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Activaire LLC",
+    "ESTABLISHMENT": "Wework offices"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Adauge Commercial Corporation",
+    "ESTABLISHMENT": "Atria Iloilo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "adidas Philippines Inc.",
+    "ESTABLISHMENT": "adidas"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Alabang Commercial Corporation",
+    "ESTABLISHMENT": "Alabang Town Center Muntinlupa"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Alberto Shoes Corporation",
+    "ESTABLISHMENT": "Alberto Shoes"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Alfamart Trading Phils. Inc.",
+    "ESTABLISHMENT": "Alfamart"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "ALI Commercial Center, Inc.",
+    "ESTABLISHMENT": "Greenbelt Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "ALI Commercial Center, Inc.",
+    "ESTABLISHMENT": "Glorietta Makati "
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "American Express International Inc.",
+    "ESTABLISHMENT": "American Express International Inc. BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Angeles Johnny's Supermarket Inc.",
+    "ESTABLISHMENT": "Johnny's Supermarket Angeles"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Arvo Commercial Corp.",
+    "ESTABLISHMENT": "Ayala Marikina"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Arvo Commercial Corp.",
+    "ESTABLISHMENT": "Ayala Legazpi Albay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Arvo Commercial Corp.",
+    "ESTABLISHMENT": "The District Dasmariñas"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ataw Marketing",
+    "ESTABLISHMENT": "Ataw Marketing"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Atelier De Prestige, OPC",
+    "ESTABLISHMENT": "Atelier De Prestige, OPC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Atlas Peak Marketing Inc.",
+    "ESTABLISHMENT": "Pandora Glorietta 4/Solaire"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Authentic American Apparel Inc.",
+    "ESTABLISHMENT": "Lee"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ayala Land Inc.",
+    "ESTABLISHMENT": "Circuit Lane Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ayala Land Metro North, Inc.",
+    "ESTABLISHMENT": "UP Town Center Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ayala Malls Vermosa",
+    "ESTABLISHMENT": "Ayala Vermosa Cavite"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ayalaland Inc.",
+    "ESTABLISHMENT": "The Shops at Ayala Triangle Gardens Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ayalaland Malls Inc.",
+    "ESTABLISHMENT": "One Ayala Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Bank of the Philippine Islands",
+    "ESTABLISHMENT": "Bank of the Philippine Islands & BPI Family Bank"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Banner Ridge Properties Inc.",
+    "ESTABLISHMENT": "Mabini180 San Juan"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Bay City Commercial Ventures Corp.",
+    "ESTABLISHMENT": "Ayala Manila Bay Pasay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Bay City Commercial Ventures Corp. formerly North Eastern Commercial Corporation",
+    "ESTABLISHMENT": "Vertis North Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Bay City Commercial Ventures Corp. formerly North Eastern Commercial Corporation",
+    "ESTABLISHMENT": "Ayala The 30th Pasig"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Bellville Development Inc.",
+    "ESTABLISHMENT": "Molito Lifestyle Center Alabang"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Benedict Ventures, Inc.",
+    "ESTABLISHMENT": "Be Residences Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Blackdegree General Merchandizer",
+    "ESTABLISHMENT": "Zakka Life Fairview Terraces"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Blue Magic Inc.",
+    "ESTABLISHMENT": "Blue Magic"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Blues Brothers, Inc.",
+    "ESTABLISHMENT": "Blues Brothers"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Bow&Wow",
+    "ESTABLISHMENT": "Bow&Wow"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Boxtalks Inc.",
+    "ESTABLISHMENT": "Beyond the Box/Digital Walker"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Brittany Corporation",
+    "ESTABLISHMENT": "Evia Lifestyle Center Las Piñas"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cagayan De Oro Gateway Corporation",
+    "ESTABLISHMENT": "Centrio Cagayan De Oro"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Capitol Central Commercial Ventures Corp.",
+    "ESTABLISHMENT": "Ayala Capitol Central Bacolod"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Casa Mia Furniture Inc.",
+    "ESTABLISHMENT": "Our Home Virra Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Caserta Commercial Inc.",
+    "ESTABLISHMENT": "Acienda Designer Outlet Cavite"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cavite Commercial Town Center Inc.",
+    "ESTABLISHMENT": "Ayala Serin Tagaytay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cavite Commercial Town Center, Inc.",
+    "ESTABLISHMENT": "The District Imus"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cebu Belmont Inc.",
+    "ESTABLISHMENT": "Belmont Hardware Depot"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cebu Holdings, Inc.",
+    "ESTABLISHMENT": "Ayala Center Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cebu Oversea Hardware Co. Inc.",
+    "ESTABLISHMENT": "Cebu Home and Builders Centre Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cebu Oversea Hardware Co. Inc.",
+    "ESTABLISHMENT": "Living N Style Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Celine Philippines Corp.",
+    "ESTABLISHMENT": "Celine Greenbelt 3"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Central Block Developers Inc.",
+    "ESTABLISHMENT": "Ayala Central Bloc Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Century City Development Corporation",
+    "ESTABLISHMENT": "Century City Mall Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "CHG Global Inc. formerly World Balance International Inc.",
+    "ESTABLISHMENT": "World Balance"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Christian Dior Philippines Inc.",
+    "ESTABLISHMENT": "Christian Dior and Dior Solaire/Greenbelt 3"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Christian Dior Philippines Inc.",
+    "ESTABLISHMENT": "Christian Dior and Dior NuStar"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Anabu Imus"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Arnaldo Roxas"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Boracay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Calamba"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Consolacion Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Cotabato"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Dumaguete"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Kabankalan"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Kalibo Aklan"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Mayombo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Parola Iloilo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Passi"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Pavia Iloilo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall San Carlos Negros"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Sorsogon"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Tagbak Iloilo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Tagum"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Tetuan Zamboanga"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers Inc.",
+    "ESTABLISHMENT": "Citymall Danao Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers, Inc.",
+    "ESTABLISHMENT": "Citymall Tiaong"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers, Inc.",
+    "ESTABLISHMENT": "Citymall Victorias"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers, Inc.",
+    "ESTABLISHMENT": "Citymall Dau Pampanga"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers, Inc.",
+    "ESTABLISHMENT": "Citymall SCTEX"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citymall Commercial Centers, Inc.",
+    "ESTABLISHMENT": "Citymall Nueva Ecija Sta. Rosa"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cityplace Commercial Center Administration, Inc.",
+    "ESTABLISHMENT": "Lucky Chinatown Mall Binondo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Citywalk Building Administration, Inc.",
+    "ESTABLISHMENT": "Eastwood Mall/Citywalk Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "CM Goldenfields Bacolod Inc.",
+    "ESTABLISHMENT": "Citymall Bacolod"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "CM Tarlac Macarthur Inc.",
+    "ESTABLISHMENT": "Citymall Tarlac"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "CMG Mall/Retail, Inc.",
+    "ESTABLISHMENT": "CLN/CMG/Rue De CMG/SoFab!/Traffic/Shubizz"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "CM-Mandalagan Bacolod, Inc.",
+    "ESTABLISHMENT": "Citymall Mandalagan"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Common Ground Work Phils. Inc.",
+    "ESTABLISHMENT": "Common Ground"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Common Thread Mall/Retailers Inc.",
+    "ESTABLISHMENT": "Common Thread Greenbelt 5/Power Plant Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Core Lifestyle Clothing Inc.",
+    "ESTABLISHMENT": "Tribal"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Cosmic Chain Inc.",
+    "ESTABLISHMENT": "Pandora"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Creativeroom Photography & Multimedia Services",
+    "ESTABLISHMENT": "Tanay Town Center/Xentro Mall/Shopking/Malolos City Terminal Hub"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Dasverse",
+    "ESTABLISHMENT": "K Life Store BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Decathlon Philippines Inc.",
+    "ESTABLISHMENT": "Decathlon"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Denim Ignition Clothing Inc.",
+    "ESTABLISHMENT": "Petrol"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Digital Walker Corp.",
+    "ESTABLISHMENT": "Digital Walker"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Double Dragon Properties Corporation",
+    "ESTABLISHMENT": "Dragon8 Mall Pasay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ecco Philippines Inc.",
+    "ESTABLISHMENT": "Ecco SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Electroworld Inc.",
+    "ESTABLISHMENT": "Electroworld"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Eton Properties Philippines Inc.",
+    "ESTABLISHMENT": "Centris Walk & Station Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Every Wear Mall/Retail Inc.",
+    "ESTABLISHMENT": "The Editor's Market The Podium/SM Aura"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Evolve Tech Lifestyle Inc.",
+    "ESTABLISHMENT": "Power Mac"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Fashion Trend Apparel Corp.",
+    "ESTABLISHMENT": "Fashion Trend Apparel Corp."
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Fast Mall/Retailing Philippines Inc.",
+    "ESTABLISHMENT": "Uniqlo"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Federal Land Inc.",
+    "ESTABLISHMENT": "Blue Bay Walk Pasay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Federal Land Inc.",
+    "ESTABLISHMENT": "Met Live Pasay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Filinvest Land Inc.",
+    "ESTABLISHMENT": "Main Square Mall Cavite"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Filinvest Land Inc.",
+    "ESTABLISHMENT": "Il Corso Lifemalls Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Filinvest Lifemalls Tagaytay Inc.",
+    "ESTABLISHMENT": "Fora Mall Tagaytay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Fisher Mall/Retail Inc.",
+    "ESTABLISHMENT": "Fisher Department Store Malabon"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Fisher Mall/Retail Inc.",
+    "ESTABLISHMENT": "Fisher Department Store Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Fisher Mall/Retail, Inc.",
+    "ESTABLISHMENT": "Fisher Supermarket Malabon"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Fisher Mall/Retail, Inc.",
+    "ESTABLISHMENT": "Fisher Supermarket Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Forever Agape & Glory Inc.",
+    "ESTABLISHMENT": "Forever21 Robinsons Galleria"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Futureheads Industries Inc.",
+    "ESTABLISHMENT": "USPA"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Gadgethub Mall/Retail Company",
+    "ESTABLISHMENT": "Digital Walker Vertis North/UP Town Center"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Galaxy Hub Techno Limited Company",
+    "ESTABLISHMENT": "Digital Walker Estancia Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Gandang Kalikasan, Inc.",
+    "ESTABLISHMENT": "Human Heart Nature Commonwealth/Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "George Optical Inc.",
+    "ESTABLISHMENT": "George Optical"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Global A.C. Cosmetics Trading Corp.",
+    "ESTABLISHMENT": "Issy One Ayala Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Global Authentic Wear Corporation",
+    "ESTABLISHMENT": "Global Authentic Wear Corporation"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Globe Mallow Int'l. Services Inc.",
+    "ESTABLISHMENT": "Genevieve Gozum SM North"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Globe Telecom Inc.",
+    "ESTABLISHMENT": "Globe Telecom"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Golden ABC Inc.",
+    "ESTABLISHMENT": "Penshoppe/Oxygen/ForMe/Regatta/Memo/Bocu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Golden Great Value Properties, Inc.",
+    "ESTABLISHMENT": "Parkmall Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Grand Union Supermarket Inc.",
+    "ESTABLISHMENT": "South Supermarket"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Greatfit Makers Inc.",
+    "ESTABLISHMENT": "RRJ"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Greenfield Development Corporation",
+    "ESTABLISHMENT": "Greenfield District Mandaluyong"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "H&F Mall/Retail Concepts Inc.",
+    "ESTABLISHMENT": "Fred Perry/Univers/Homme/Femme/Off White/Y3"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "H&M Hennes & Mauritz Inc.",
+    "ESTABLISHMENT": "H&M/Monki/COS"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Happy Go Shopping Center Inc.",
+    "ESTABLISHMENT": "Happy Go Shopping Center"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Healthy Options",
+    "ESTABLISHMENT": "Healthy Options"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Hero Hub Ventures Incorporated",
+    "ESTABLISHMENT": "Co. The Collectible Store"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Hilltop Land Realty Corp.",
+    "ESTABLISHMENT": "Capitol Square Balanga"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "HLA Garments International Business Philippines Inc.",
+    "ESTABLISHMENT": "HLA Robinsons Manila/SM Fairview"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "HLA Garments International Business Philippines Inc.",
+    "ESTABLISHMENT": "HLA SM Caloocan"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "HLA Garments International Business Philippines Inc.",
+    "ESTABLISHMENT": "HLA SM Seaside Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ikano (Philippines) Inc.",
+    "ESTABLISHMENT": "Ikea SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "International Toy World Inc.",
+    "ESTABLISHMENT": "Toy Kingdom"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Isetann Department Store Inc.",
+    "ESTABLISHMENT": "Isetann Department Store Quiapo/Cubao"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Islands Souvenirs, Inc.",
+    "ESTABLISHMENT": "Islands Souvenirs"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Jones Lang Lasalle (Phils) Inc.",
+    "ESTABLISHMENT": "Capital One Philippines Support Services Corp. (COPSSC)"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Jones Lang Lasalle (Phils) Inc.",
+    "ESTABLISHMENT": "Google Services Philippines Inc. BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "JPMorgan Chase Bank N.A.-Philippines Global Service Center",
+    "ESTABLISHMENT": "Four NEO Building/E-Bloc Tower 1/JPMorgan Chase & Co. Tower Manila"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "JPMorgan Chase Bank N.A.-Philippines Global Service Center",
+    "ESTABLISHMENT": "Four NEO Building/JPMorgan Chase & Co. Tower Manila"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "JPMorgan Chase Bank N.A.-Philippines Global Service Center",
+    "ESTABLISHMENT": "Central Bloc Tower 2"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "JPS Fashions Philippines Inc.",
+    "ESTABLISHMENT": "Lyn SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Jsfive10 Ventures Inc.",
+    "ESTABLISHMENT": "Digital Walker Robinsons Magnolia"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Kultura",
+    "ESTABLISHMENT": "Kultura"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "La Nueva Supermart Inc.",
+    "ESTABLISHMENT": "La Nueva Supermart"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Lagalag Outdoor Co. Inc.",
+    "ESTABLISHMENT": "Lagalag Exploration SM North"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Lagoon Development Corp.",
+    "ESTABLISHMENT": "Pavilion Mall Biñan"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "LausGroup Land Corporataion",
+    "ESTABLISHMENT": "LausGroup Event Centre Pampanga"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Levi Strauss Philippines II",
+    "ESTABLISHMENT": "Levi's"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Louis Vuitton Philippines",
+    "ESTABLISHMENT": "Louis Vuitton"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Lovebonito Philippines Corporation",
+    "ESTABLISHMENT": "Love, Bonito Greenbelt 3"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Maldita Marketing Sales Inc.",
+    "ESTABLISHMENT": "Maldita"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Mallers Investment Corporation",
+    "ESTABLISHMENT": "Fisher Mall Malabon"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Mallers Investment Corporation",
+    "ESTABLISHMENT": "Fisher Mall Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Manuela Corporation",
+    "ESTABLISHMENT": "Starmall Edsa Shaw"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Manuela Corporation for and on behalf of Vista Reit Inc.",
+    "ESTABLISHMENT": "Vista Mall Las Piñas"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Megaworld Commercial Division for and on behalf of Forbestown Center, Inc.",
+    "ESTABLISHMENT": "Forbestown Center Taguig"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Megaworld Commercial Division for and on behalf of McKinley Commercial Center Admininstration, Inc.",
+    "ESTABLISHMENT": "Venice Grand Canal Taguig"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Megaworld Commercial Division for and on behalf of Uptown Commercial Center Admin, Inc.",
+    "ESTABLISHMENT": "Uptown Place BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Merrymart Grocery Centers Inc.",
+    "ESTABLISHMENT": "Merrymart Grocery"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Metro Mall/Retail Stores Group, Inc.",
+    "ESTABLISHMENT": "Metro Gaisano"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Mindwerks The Toy Shoppe",
+    "ESTABLISHMENT": "Mindwerks The Toy Shoppe Fisher Mall/Festival Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Morayta Bookstore Inc.",
+    "ESTABLISHMENT": "Morayta Bookstore Manila"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Mystical Chain Inc.",
+    "ESTABLISHMENT": "Pandora"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-Cube BGC Properties Inc.",
+    "ESTABLISHMENT": "Three/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "New Era Head Wear and Apparel (Authentic Caps Mall/Retail Inc.)",
+    "ESTABLISHMENT": "New Era"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "New Javier Trading Corporation",
+    "ESTABLISHMENT": "JTC Superstore Ilocos Sur"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Newport World Resotys/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Newport Mall/Newport Entertainment and Commercial Center Pasay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Newtrends International Corp.",
+    "ESTABLISHMENT": "Watch Republic/Timex/Meridian Time Gear/Trollbeads/Segnatempo/Casio"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-Lima BGC Properties Inc.",
+    "ESTABLISHMENT": "Six/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-One BGC Properties, Inc.",
+    "ESTABLISHMENT": "One/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "North Beacon Commercial Corporation",
+    "ESTABLISHMENT": "Marquee Pampanga"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "North Eastern Commercial Corporation",
+    "ESTABLISHMENT": "Cloverleaf Balintawak"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "North Triangle Depot Commercial Corporation",
+    "ESTABLISHMENT": "TriNoma Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "North Ventures Commercial Corporation",
+    "ESTABLISHMENT": "Fairview Terraces Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-Park BGC Properties, Inc.",
+    "ESTABLISHMENT": "Seven/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-Plaza BGC Properties Inc.",
+    "ESTABLISHMENT": "Five/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-Quad BGC Properties Inc.",
+    "ESTABLISHMENT": "Four/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "N-Square BGC Properties Inc.",
+    "ESTABLISHMENT": "Two/NEO BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Octave Group, Inc.",
+    "ESTABLISHMENT": "Banana Republic/Gap/La Senza/Mac Cosmetics/Marc Jacobs/Old Navy/Tory Burch"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Ooh Radio Net Co.",
+    "ESTABLISHMENT": "Mr. DIY Philippines"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Oriental Time Inc.",
+    "ESTABLISHMENT": "Pandora SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Pacific Beauty Inc.",
+    "ESTABLISHMENT": "Bath & Body Works SM Mall of Asia/SM Megamall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Pacific Mall Corporation",
+    "ESTABLISHMENT": "Pacific Mall Legazpi"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Pagadian Best Emporium Inc.",
+    "ESTABLISHMENT": "Best Emporium Zamboangda del Sur"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Pere Et Fils Inc.",
+    "ESTABLISHMENT": "Archives/Officine Universelle Buly"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Petron Corporation",
+    "ESTABLISHMENT": "Petron Treats"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Pismo Digital Lifestyle Inc.",
+    "ESTABLISHMENT": "Power Mac/The Loop"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "PMC Express Hub Inc.",
+    "ESTABLISHMENT": "Power Mac Center/The Loop by Power Mac Center"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Popjunklove Enterprises",
+    "ESTABLISHMENT": "Common Room PH"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Poporri Enterprise",
+    "ESTABLISHMENT": "Poporri"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Power Mac Center Inc.",
+    "ESTABLISHMENT": "Power Mac"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Power Mac Center Inc. for an on behalf of Mobilecare Services Phils. Inc.",
+    "ESTABLISHMENT": "Mobilecare by Power Mac Center"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Power Mac Center Inc. for and on behalf of Index 94 Lifestyle Solution Inc.",
+    "ESTABLISHMENT": "MI (IDX Lifestyle Zone)"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Primer Group of Companies for an on behalf of Concept Store Inc.",
+    "ESTABLISHMENT": "Grind/Herschel/Rvca"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Primer Group of Companies for an on behalf of Kenrich Int'l. Distributor Corporation",
+    "ESTABLISHMENT": "Boardriders/Columbia/DC/Quiksilver/Res Toe Run/Rockport/Sledgers"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Primer Group of Companies for an on behalf of LTS Luggage Trading & Services Inc.",
+    "ESTABLISHMENT": "Hydro Flask/Travelon/Flight001"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Primer Group of Companies for an on behalf of Philgear Int'l. Inc.",
+    "ESTABLISHMENT": "Birkenstock/Native/Aetrex/Sport B"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Primer Group of Companies for an on behalf of Uniglobe Travelware Company Inc.",
+    "ESTABLISHMENT": "Bratpack/Fox/Hedgren/ROX/Salomon/The North Face/The Travel Club/Tumi"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Puregold Price Club, Inc.",
+    "ESTABLISHMENT": "Puregold Price Club/Extra/Jr./Freshmarket/PPCI"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Qualfon Philippines Inc.",
+    "ESTABLISHMENT": "Qualfon Philippines Inc. - Dumaguete"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Qualfon Philippines Inc.",
+    "ESTABLISHMENT": "Qualfon Philippines Inc. - Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Quorum Int'l, Inc.",
+    "ESTABLISHMENT": "Toby's/Runnr/Urban Athletics/adidas/Move"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Quorum Int'l, Inc. (Franchise)",
+    "ESTABLISHMENT": "Toby's/Runnr/Urban Athletics/adidas/Move"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Raffco International Trading Corporation",
+    "ESTABLISHMENT": "Plains and Prints"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Rigisma Trading Corp.",
+    "ESTABLISHMENT": "Designer Blooms"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Robinsons Inc.",
+    "ESTABLISHMENT": "Robinsons Department Store"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Rockwell Land Corporation ",
+    "ESTABLISHMENT": "Power Plant Mall Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Rolex Centre Phil. Limited",
+    "ESTABLISHMENT": "Rolex Service Centre Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Royal Wiseborn Mall/Retailer's Inc.",
+    "ESTABLISHMENT": "Joel's Place Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Rustan Marketing Specialists Inc.",
+    "ESTABLISHMENT": "Marks & Spencer"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Rustan Specialty Concepts Inc.",
+    "ESTABLISHMENT": "Debenhams"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Sanford Marketing Corporation",
+    "ESTABLISHMENT": "Savemore"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Serendra, Inc.",
+    "ESTABLISHMENT": "Serendra Taguig"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Shangri-La Plaza Corporation",
+    "ESTABLISHMENT": "Shangri-La Plaza Mandaluyong"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Shoe Solutions Mktg. Inc.",
+    "ESTABLISHMENT": "Superkicks TriNoma/Market! Market!"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Sketchbooks, Inc.",
+    "ESTABLISHMENT": "Fully Booked"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "SM Mart Inc.",
+    "ESTABLISHMENT": "Supermall/Supercenter (Medium)"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Supermall/Supercenter (Large)"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Cherry Foodarama"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Sodexo On-Site Services Philippines Inc.",
+    "ESTABLISHMENT": "Healthy Living Café Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Soltea Commercial Corporation",
+    "ESTABLISHMENT": "Solenad Laguna"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Sony Philippines, Inc.",
+    "ESTABLISHMENT": "Sony"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Soundroom Corporation",
+    "ESTABLISHMENT": "Soundroom SM City Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Southeast Asian Ministers of Education Organization Regional Centre for Educational Innovation and Technology",
+    "ESTABLISHMENT": "Seameo Innotech Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Southeastasia Mall/Retail Inc.",
+    "ESTABLISHMENT": "Landers Superstore"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Sports Central",
+    "ESTABLISHMENT": "Sports Central Waltermart San Fernando"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Sportshouse Int'l. Leisure, Inc.",
+    "ESTABLISHMENT": "Sportshouse"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Staccato Exhibits and Development, Inc.",
+    "ESTABLISHMENT": "Ever Gotesco Mall Commonwealth"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Star Appliance Center Inc.",
+    "ESTABLISHMENT": "SM Appliance Center"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Station Square East Commercial Corporation",
+    "ESTABLISHMENT": "Market! Market! Taguig"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Stores Specialists, Inc.",
+    "ESTABLISHMENT": "various 97 brands"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Subic Bay Town Center Inc.",
+    "ESTABLISHMENT": "Harbor Point Subic"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Summerhill Commercial Ventures Corporation",
+    "ESTABLISHMENT": "Ayala Feliz Marikina"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Super Shopping Market Inc.",
+    "ESTABLISHMENT": "Hypermarket"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Super8 Mall/Retail Systems Inc.",
+    "ESTABLISHMENT": "Super8 Grocery Warehouse/Supermarket/Express"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Tequinox Corp.",
+    "ESTABLISHMENT": "OMG/Baseus"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Terry S.A. Inc.",
+    "ESTABLISHMENT": "Aura Athletica Power Plant Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Tesoros Marketing Corporation",
+    "ESTABLISHMENT": "Tesoro's Arnaiz/Ayala Manila Bay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "The Body Shop",
+    "ESTABLISHMENT": "The Body Shop"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "The Enterprise Center Condominium Corporation",
+    "ESTABLISHMENT": "The Enterprise Center Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "The Neat Inc.",
+    "ESTABLISHMENT": "Banana Peel"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "The Outlet People (Subic Bay) Inc.",
+    "ESTABLISHMENT": "Nike Factory Subic"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "The Outlet People (TOP) Inc.",
+    "ESTABLISHMENT": "Capital/Nike Forum/The Outlet Store"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Tickles Company Inc.",
+    "ESTABLISHMENT": "Tickles"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Titanomachy Inc.",
+    "ESTABLISHMENT": "Titan stores"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Total Sports Technology Inc.",
+    "ESTABLISHMENT": "Butterfly Twists Philippines"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "UP North Property Holdings Inc.",
+    "ESTABLISHMENT": "UP Ayala Technohub Quezon City"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Upward Ideas Apparel Corporation",
+    "ESTABLISHMENT": "Certified Calm Rockwell"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Urban Denim Makers Inc.",
+    "ESTABLISHMENT": "Mr. Lee"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Urbanpark Inc.",
+    "ESTABLISHMENT": "Sunstar Mall Laguna"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Valiram Pacific Inc.",
+    "ESTABLISHMENT": "Victoria's Secret SM Megamall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Vania Romoff Inc.",
+    "ESTABLISHMENT": "Vania Romoff Makati"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Vicma Marketing Corporation",
+    "ESTABLISHMENT": "Concorde"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Walk EZ Mall/Retail Corporation",
+    "ESTABLISHMENT": "Crocs"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Waltermart Ventures Inc.",
+    "ESTABLISHMENT": "Waltermart Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Watson Personal Care Stores Philippines Inc.",
+    "ESTABLISHMENT": "Watsons"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Webster Bookstore - Del Monte",
+    "ESTABLISHMENT": "Webster Bookstore Del Monte"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Welcome Worldwide Inc.",
+    "ESTABLISHMENT": "Aesop Greenbelt 5/Power Plant Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Wells Fargo Enterprise Global Services LLC.",
+    "ESTABLISHMENT": "Wells Fargo BGC"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Weshopstore Incorporated",
+    "ESTABLISHMENT": "Weshop Supermarket Taft"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Westview Commercial Ventures, Corp.",
+    "ESTABLISHMENT": "The District North Point Talisay"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Wilcon Builders Depot, Inc.",
+    "ESTABLISHMENT": "Wilcon Depot Visayas Ave."
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Willimson Inc.",
+    "ESTABLISHMENT": "Waltermart Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Willin Sales Inc.",
+    "ESTABLISHMENT": "Waltermart Mall"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "WW Community Workspaces Philippines Inc.",
+    "ESTABLISHMENT": "Wework offices"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yamaha Motor Philippines Inc.",
+    "ESTABLISHMENT": "Yamaha Motorcycle shops"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yong Studio International OPC",
+    "ESTABLISHMENT": "Yong Studio/Tayo Studio"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yoyoso Trading Ltd. Corp.",
+    "ESTABLISHMENT": "Yoyoso"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yoyoso Trading Ltd. Corp.",
+    "ESTABLISHMENT": "Yoyoso Ayala Feliz"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yoyoso Trading Ltd. Corp.",
+    "ESTABLISHMENT": "Yoyoso Ayala Cebu/Robinsons Fuente Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yoyoso Trading Ltd. Corp.",
+    "ESTABLISHMENT": "Yoyoso Parkmall Cebu"
+  },
+  {
+    "CATEGORY": "Mall/Retail",
+    "COMPANY": "Yoyoso Trading Ltd. Corp.",
+    "ESTABLISHMENT": "Yoyoso E-Mall Cebu"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Alabang24 Fitness Corporation",
+    "ESTABLISHMENT": "Anytime Fitness Alabang"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "All Waxed Out Corporation",
+    "ESTABLISHMENT": "Lay Bare Waxing Salon SM Marikina/Commonwealth"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Anytime Fitness",
+    "ESTABLISHMENT": "Anytime Fitness Paseo Center/Eton Tower"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Araneta24 Fit Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Araneta Cubao"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Beauty Profile Corporation",
+    "ESTABLISHMENT": "Facial Care Center Makati"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Behavior Modification Inc.",
+    "ESTABLISHMENT": "Slimmers World"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Belo Medical Group Inc.",
+    "ESTABLISHMENT": "Belo Medical Clinic"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Bioaccents Inc.",
+    "ESTABLISHMENT": "Marie France"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Biolite Inc.",
+    "ESTABLISHMENT": "Marie France"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Biosthetic Corporation",
+    "ESTABLISHMENT": "Marie France"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Bluewater Day Spa Inc.",
+    "ESTABLISHMENT": "Bluewater Day Spa"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Browmakers Inc.",
+    "ESTABLISHMENT": "Brow Lounge Eyebrow Grooming & Waxing Salon Festival Mall"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Bruno's Services Corp.",
+    "ESTABLISHMENT": "Bruno's Barbers"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Calamba24 Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Calamba"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Cbp24 Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Cebu Business Park"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Cdo24 Inc.",
+    "ESTABLISHMENT": "Anytime Fitness SM CDO"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Dear Alice Nailworks Inc.",
+    "ESTABLISHMENT": "Dear Alice Nail Lounge Makati"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Dermaco Inc.",
+    "ESTABLISHMENT": "Facial Care Center"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Dermawell International Inc.",
+    "ESTABLISHMENT": "Facial Care Center"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Dermclinic, Inc.",
+    "ESTABLISHMENT": "Dermclinic"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Dermlight Inc.",
+    "ESTABLISHMENT": "Facial Care Center"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Dv247 Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Abreeza"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Ecoland24 Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Ecoland"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Essensual 3 North Inc.",
+    "ESTABLISHMENT": "Toni & Guy TriNoma"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Essensual 4 South Inc.",
+    "ESTABLISHMENT": "Toni & Guy SM Mall of Asia"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Evolution Wellness Philippines Inc.",
+    "ESTABLISHMENT": "Fitness First"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Face & Body Rejuvenation",
+    "ESTABLISHMENT": "Svenson"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Goodlfe24 Fitness Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Cebu Escario"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Gupit Industriya Inc.",
+    "ESTABLISHMENT": "Azta Urban Salon"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Harem Inc.",
+    "ESTABLISHMENT": "Strip/Browhaus"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Intelligent Beauty Skin Solutions Inc.",
+    "ESTABLISHMENT": "Belo Medical Clinic"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Jesi Mendez Salon Group Inc.",
+    "ESTABLISHMENT": "Jesi Mendez Salon Glorietta"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Larrs Skin Solutions Inc.",
+    "ESTABLISHMENT": "Belo Medical Clinic SM North/Abreeza Mall"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Lay Bare Waxing Philippines Inc.",
+    "ESTABLISHMENT": "Lay Bare Waxing Salon"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Lgf24 Fit Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Vertis North"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Marie France Bodyline International",
+    "ESTABLISHMENT": "Marie France Makati/Fort"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Novel Grooming Concepts Inc.",
+    "ESTABLISHMENT": "The John Barbers Groomers Somerset Makati/Ascott Makati"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Perfect Skin & Beauty Solutions Inc.",
+    "ESTABLISHMENT": "Belo Medical Clinic Shangri-La Plaza/S'Maison"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Persephone Salon Inc.",
+    "ESTABLISHMENT": "David's Salon Cebu"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Premium Salon Specialist Inc.",
+    "ESTABLISHMENT": "Jesi Mendez Salon New World Hotel Makati "
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Prestige Worldwide Fitness Corporation",
+    "ESTABLISHMENT": "Anytime Fitness Eastwood"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Qwerty Waxers Corporation",
+    "ESTABLISHMENT": "Lay Bare Waxing Salon Congressional/SM Novaliches"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Rever Salon Inc.",
+    "ESTABLISHMENT": "David's Salon Lahug"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "RNB Fitness Studio",
+    "ESTABLISHMENT": "F45 Training Cebu Business Park"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Salon One, Inc.",
+    "ESTABLISHMENT": "Salon One Festival Mall/BF Homes"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "T&G Premiere Salon Inc.",
+    "ESTABLISHMENT": "Toni & Guy SM Aura"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "The Spa 1996 Wellness Inc.",
+    "ESTABLISHMENT": "The Spa Wellness"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Two Futures Inc.",
+    "ESTABLISHMENT": "Simply Skin "
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Two Futures Inc.",
+    "ESTABLISHMENT": "Wink Laser Studio"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Uptown24 Inc.",
+    "ESTABLISHMENT": "Anytime Fitness Uptown Bonifacio"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "VE Mendez Salon Inc.",
+    "ESTABLISHMENT": "Jesi Mendez Salon Robinsons Ermita"
+  },
+  {
+    "CATEGORY": "Wellness",
+    "COMPANY": "Yellow Fitness Company Adventures Inc.",
+    "ESTABLISHMENT": "Ride Revolution Greenbelt 5"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "5th Wall Incorporated",
+    "ESTABLISHMENT": "Cebu Pacific Airways"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "Bonifacio Transport Corporation",
+    "ESTABLISHMENT": "Bonifacio Transport Terminal"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "Coda Lines Corp.",
+    "ESTABLISHMENT": "Coda Lines"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "Del Monte Land Transport Bus Company Inc.",
+    "ESTABLISHMENT": "DLTBCo. Buses"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "Jac Liner Inc.",
+    "ESTABLISHMENT": "Jac Liner"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "Philippine Airlines, Inc. (PAL)",
+    "ESTABLISHMENT": "Philippine Airlines"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "St. Peter Chapels",
+    "ESTABLISHMENT": "St. Peter Hearses"
+  },
+  {
+    "CATEGORY": "Transport",
+    "COMPANY": "Victory Liner Inc.",
+    "ESTABLISHMENT": "Victory Liner Buses"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Accendo Commercial Corporation",
+    "ESTABLISHMENT": "Abreeza Cinema Davao"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Alabang Town Center-Five Star Cinema, Inc.",
+    "ESTABLISHMENT": "Alabang Town Center Cinema Muntinlupa"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Alabang Town Center-South Innovative Theaters Management, Inc.",
+    "ESTABLISHMENT": "Alabang Town Center Cinema Muntinlupa"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Arvo Commercial Corp.",
+    "ESTABLISHMENT": "Ayala Legazpi Cinema Albay"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Ayalaland Malls Inc.",
+    "ESTABLISHMENT": "Greenbelt Cinema Makati"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Ayalaland Malls Inc.",
+    "ESTABLISHMENT": "Glorietta Cinema Makati"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Ayalaland Metro North, Inc.",
+    "ESTABLISHMENT": "UP Town Center Cinema Quezon City"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Bay City Commercial Ventures Corp.",
+    "ESTABLISHMENT": "Ayala Manila Bay Cinema Pasay"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Cagayan De Oro Gateway Corporation",
+    "ESTABLISHMENT": "Centrio Cinema Cagayan De Oro"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Capitol Central Commercial Ventures Corp.",
+    "ESTABLISHMENT": "Ayala Capitol Central Cinema Bacolod"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Cebu Leisure Company Inc.",
+    "ESTABLISHMENT": "Ayala Center Cebu Cinema"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Cebu Leisure Company Inc.",
+    "ESTABLISHMENT": "Ayala Central Bloc Cinema Cebu"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Filinvest Land Inc.",
+    "ESTABLISHMENT": "Il Corso Cinema"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Fort Bonifacio Development Corporation",
+    "ESTABLISHMENT": "Bonifacio High Street Cinema Taguig"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Makati Cornerstone Leasing Corporation",
+    "ESTABLISHMENT": "Circuit Cinema Makati"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Music Museum Group Inc.",
+    "ESTABLISHMENT": "Greenhills Theatre Mall/Promenade Mall Cinemas"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "North Beacon Commercial Corporation",
+    "ESTABLISHMENT": "Marquee Cinema Pampanga"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "North Eastern Commercial Corporation",
+    "ESTABLISHMENT": "Vertis North Cinema Quezon City"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "North Eastern Commercial Corporation",
+    "ESTABLISHMENT": "Ayala The 30th Cinema Pasig"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "North Eastern Commercial Corporation",
+    "ESTABLISHMENT": "Cloverleaf Cinema Balintawak"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "North Triangle Depot Commercial Corporation",
+    "ESTABLISHMENT": "TriNoma Cinema Quezon City"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "North Ventures Commercial Corporation",
+    "ESTABLISHMENT": "Fairview Terraces Cinema Quezon City"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Rockwell Land Corporation ",
+    "ESTABLISHMENT": "Power Plant Cinema Makati"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Shangri-La Plaza Corporation",
+    "ESTABLISHMENT": "Shangri-La Plaza Cinema Mandaluyong"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Supermall/Supercenter (Large)"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Soltea Commercial Corporation",
+    "ESTABLISHMENT": "Solenad Cinema Laguna"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Station Square East Commercial Corporation",
+    "ESTABLISHMENT": "Market! Market! Cinema Taguig"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Subic Bay Town Center, Inc.",
+    "ESTABLISHMENT": "Harbor Point Cinema Subic"
+  },
+  {
+    "CATEGORY": "Cinema",
+    "COMPANY": "Summerhill Commercial Ventures Corporation",
+    "ESTABLISHMENT": "Ayala Feliz Cinema Marikina"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Adventure Sports Leisure & Games Phils Inc.",
+    "ESTABLISHMENT": "Lazerxtreme Taguig"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Art in Island Inc.",
+    "ESTABLISHMENT": "Art in Island Cubao"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Ayala Land Inc.",
+    "ESTABLISHMENT": "Samsung Performing Arts Theater Makati"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "BB International Leisure and Resort Development Corporation",
+    "ESTABLISHMENT": "Aqua Planet Pampanga"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Bonifacio Art Foundation Inc.",
+    "ESTABLISHMENT": "BGC Arts Center"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Cebu Sealife Park Inc.",
+    "ESTABLISHMENT": "Cebu Ocean Park "
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "China Oceanis Philippines Inc.",
+    "ESTABLISHMENT": "Manila Ocean Park"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "City Government of Taguig",
+    "ESTABLISHMENT": "various areas"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "DBA Dreams Entertainment Studio",
+    "ESTABLISHMENT": "PAGCOR Events"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Dreams Entertainment Studio",
+    "ESTABLISHMENT": "PAGCOR Events"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Enchanted Kingdom Inc.",
+    "ESTABLISHMENT": "Enchanted Kingdom Laguna"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Five 2 Seven Entertainment Productions",
+    "ESTABLISHMENT": "PAGCOR Events"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Fort Bonifacio Development Corporation",
+    "ESTABLISHMENT": "Bonifacio High Street Taguig"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "KC Wonderland Corporation",
+    "ESTABLISHMENT": "World of Fun"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Leisure and Allied Industries Phils.",
+    "ESTABLISHMENT": "Timezone"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Live Artists Production Inc.",
+    "ESTABLISHMENT": "PAGCOR Events"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Megapark Philippines Inc.",
+    "ESTABLISHMENT": "Superpark Eastwood Mall"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Ocean & Fountain Park Philippines Inc.",
+    "ESTABLISHMENT": "Acquatica Manila"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "SM Prime Holdings Inc.",
+    "ESTABLISHMENT": "Two E-com Center Pasay"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Subic Bay Marine Exploratorium Inc.",
+    "ESTABLISHMENT": "Adventure Beach Waterpark Subic"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Subic Bay Marine Exploratorium, Inc.",
+    "ESTABLISHMENT": "Ocean Adventure and Camayan Beach Resort & Restaurant Subic"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Tom's World and Fun House",
+    "ESTABLISHMENT": "Tom's World and Fun House"
+  },
+  {
+    "CATEGORY": "Amusement",
+    "COMPANY": "Viventis Search Asia Inc.",
+    "ESTABLISHMENT": "PAGCOR Events"
+  },
+  {
+    "CATEGORY": "Hospital",
+    "COMPANY": "Asian Hospital and Medical Center",
+    "ESTABLISHMENT": "Asian Hospital and Medical Center Muntinlupa"
+  },
+  {
+    "CATEGORY": "Hospital",
+    "COMPANY": "Medical Doctors, Inc.",
+    "ESTABLISHMENT": "Makati Medical Center"
+  },
+  {
+    "CATEGORY": "Hospital",
+    "COMPANY": "Patient First Hospital Corporation",
+    "ESTABLISHMENT": "Patient First Medical Clinic and Diagnostic Center Quezon City/Makati"
+  },
+  {
+    "CATEGORY": "Hospital",
+    "COMPANY": "St. Luke's Medical Center",
+    "ESTABLISHMENT": "St. Luke's Medical Center Quezon City"
+  },
+  {
+    "CATEGORY": "Hospital",
+    "COMPANY": "St. Luke's Medical Center",
+    "ESTABLISHMENT": "St. Luke's Medical Center BGC"
+  },
+  {
+    "CATEGORY": "Hospital",
+    "COMPANY": "University of Santo Tomas Hospital",
+    "ESTABLISHMENT": "University of Santo Tomas Hospital Manila"
+  },
+  {
+    "CATEGORY": "Dance School/Studio",
+    "COMPANY": "JNA Dance and Fitness Center",
+    "ESTABLISHMENT": "JNA Dance and Fitness Center Shangri-La Plaza"
+  },
+  {
+    "CATEGORY": "Dance School/Studio",
+    "COMPANY": "Jubilasia Inc.",
+    "ESTABLISHMENT": "The Addlib Dance Studio Cubao"
+  },
+  {
+    "CATEGORY": "Music-on-Hold",
+    "COMPANY": "Federal Express Pacific LLC",
+    "ESTABLISHMENT": "Federal Express Pacific, LLC"
+  },
+  {
+    "CATEGORY": "Music-on-Hold",
+    "COMPANY": "Smart Communications, Inc.",
+    "ESTABLISHMENT": "Smart Infinity"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "AABA Entertainment Production",
+    "ESTABLISHMENT": "Quezon Pasigarbo: Kabibo Sigurado!"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Abacus Book And Card Corporation",
+    "ESTABLISHMENT": "Sulit Reads Fair - Gateway 2 Mall, NBS x Bini Limited Drop Launch"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "ABS-CBN Film Productions Inc.",
+    "ESTABLISHMENT": "BINIverse"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Accenture Inc.",
+    "ESTABLISHMENT": "2024 GLN Manila Christmas & Year End Get Together"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Acts Manila Inc.",
+    "ESTABLISHMENT": "AKTS Maynila!"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ad Gateway Inc.",
+    "ESTABLISHMENT": "Be Your D..' Bang Yedam 2024 1st Asia Fan Meeting In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Alcasid Entertainment and Artist Management Inc.",
+    "ESTABLISHMENT": "SB 90s The Streetboys Reunion Dance Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Alcasid Total Entertainment and Artist Management Inc.",
+    "ESTABLISHMENT": "The Greatest Duets: Special Screening"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Alice Reyes Dance Philippines",
+    "ESTABLISHMENT": "Sayaw Tungo Sa Kalayaan"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Alice Reyes Dance Philippines",
+    "ESTABLISHMENT": "Salikayo! 2024 Summer Dance Showcase"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "ALI-Eton Property Development Corporation",
+    "ESTABLISHMENT": "Parklinks: Take It To The Bridge"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ant Savvy Creatives And Entertainment Inc.",
+    "ESTABLISHMENT": "Coke Studio: The Ultimate Fandom Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Aqadvertising Inc.",
+    "ESTABLISHMENT": "National Conference"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Aryan Worldwide Travel & Tours Inc.",
+    "ESTABLISHMENT": "Teeyan Teej Mela"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Association of Ballet Academies of the Philippines (ABAP) Inc.",
+    "ESTABLISHMENT": "ABAP International Dance Competition (AIDC)"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ateneo De Manila University - Department of Fine Arts",
+    "ESTABLISHMENT": "Lagnat-Laki: Trilohiya Para Sa Bayang Walang Pinagkatandaan"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ayala Corporation",
+    "ESTABLISHMENT": "Christmas Star AC Got Talent"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ayala Foundation Inc. ",
+    "ESTABLISHMENT": "Ayala Museum Shows And Events"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Banda Kawayan Pilipinas Inc.",
+    "ESTABLISHMENT": "Heritage & Harmony"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Beast House Pole And Aerial Dance Studio",
+    "ESTABLISHMENT": "10VE: Beast House Pole And Aerial Dance Studio 10th Anniversary Show And Summer Workshop"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Black Star Entertainment Corporation",
+    "ESTABLISHMENT": "SB19 Pagtatag! Finale"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Black Star Entertainment Corporation",
+    "ESTABLISHMENT": "Josh Cullen Lost & Found Album Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Bloomberry Resorts and Hotel Inc.",
+    "ESTABLISHMENT": "See the Light Live Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Boomshake Entertainment Inc.",
+    "ESTABLISHMENT": "New Year 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Bor E Creative Agency Corporation",
+    "ESTABLISHMENT": "Philippine International Motorshow"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CCF Media Inc.",
+    "ESTABLISHMENT": "Matt Redman Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Build 1st Fanmeeting in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "2024 Youngjae Asia Tour (Inside Out) Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Get Back Ikon Limited Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Unis Fansign Philippine Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Milk Love 1st Fan Meeting In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "\"Filled With Love\" Blank The Series II Last Episode Watch Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "GMMTV Fanday 13 In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Bamesis Fansign Tour in Cebu"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Bamesis Showcase Tour in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Michael Learns To Rock \"Take Us To Your Heart\" Asia Tour 2024 in Philippines"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Jung Hae In  \"Our Time\" Fanmeeting in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "2024 Jang Ki Yong Asia Fan Meeting Beautiful Day In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "2024 Park Min Young Asia Fanmeeting: My Brand New Day In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CDM Entertainment Production",
+    "ESTABLISHMENT": "Viu Secret Ingredient Event Launch"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Christopher Sta. Juana Villegas",
+    "ESTABLISHMENT": "Dreamcatcher: Under the Moonlight in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cignal TV Inc.",
+    "ESTABLISHMENT": "UAAP S86 Cheerdance Competition"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cignal TV Inc.",
+    "ESTABLISHMENT": "UAAP S87 Opening Ceremony"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Circles Entertainment Management",
+    "ESTABLISHMENT": "Wannabe"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Circles Entertainment Management",
+    "ESTABLISHMENT": "Blippi The Wonderful World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CMC Production Consulting Company Inc.",
+    "ESTABLISHMENT": "International Women's Month"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CMC Production Consulting Company Inc.",
+    "ESTABLISHMENT": "Pride Fiesta Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CMC Production Consulting Company Inc.",
+    "ESTABLISHMENT": "ATC-Global Network MD Awards"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CNCA Media Concepts Inc.",
+    "ESTABLISHMENT": "Dunkin' Presents: Thanksgiving SB19 6th Anniversary Celebration"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CNCA Media Concepts Inc.",
+    "ESTABLISHMENT": "Dunkin' Presents: Des7ined Enhypen | Dunkin' Fan Meet"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Comco Southeast Asia Inc.",
+    "ESTABLISHMENT": "Korea Travel Fiesta 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Concepts, Marketing Services, Events Partner Inc.",
+    "ESTABLISHMENT": "SLGFI Q4 Elite Millionaire's Club"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Concepts, Marketing Services, Events Partner Inc.",
+    "ESTABLISHMENT": "2024 Great Achiever's Awards"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Concepts, Marketing Services, Events Partner Inc.",
+    "ESTABLISHMENT": "2024 SLGFI Bancassurance Annual Awards"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Concert/Event Republic Events and Promotions Inc.",
+    "ESTABLISHMENT": "The Simon & Garfunkel Story"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Concert/Event Republic Events and Promotions Inc.",
+    "ESTABLISHMENT": "The Bootleg Beatles"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cornerstone Entertainment Inc.",
+    "ESTABLISHMENT": "Milestone The Erik Santos 20th Anniversary Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cornerstone Entertainment Inc.",
+    "ESTABLISHMENT": "Bingo Plus Day Masskara Festival"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cosplay.ph Organization Inc.",
+    "ESTABLISHMENT": "FanFes 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cosplay.ph Organization Inc.",
+    "ESTABLISHMENT": "Anime and Cosplay Expo 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cosplay.ph Organization Inc.",
+    "ESTABLISHMENT": "Cosplay Mania '24 Jam"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Couture Republique Inc.",
+    "ESTABLISHMENT": "Una Premier Gala Fashion Show"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "CS Global Workplace Inc.",
+    "ESTABLISHMENT": "Roar: CS Yep 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cultural Center of the Philippines",
+    "ESTABLISHMENT": "Virgin Labfest 19: Pintog"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Cultural Center of the Philippines",
+    "ESTABLISHMENT": "Gawad CCP Para Sa Sining 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "De La Salle Innersoul",
+    "ESTABLISHMENT": "Fleur Sonata"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "De La Salle University Chorale - Culture And Arts Office",
+    "ESTABLISHMENT": "Saliw Lasalyano"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Delivery Hero Logistics Philippines Inc. (Food Panda)",
+    "ESTABLISHMENT": "Pau-Tastic Event ng Taon Year 2"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Delivery Hero Logistics Philippines Inc. (foodpanda)",
+    "ESTABLISHMENT": "Pau-Tastic Event ng Taon Year 3"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Department Of Tourism, Culture And Arts Of Manila",
+    "ESTABLISHMENT": "Miss Manila 2024 Pageant"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "DNM Entertainment Corporation",
+    "ESTABLISHMENT": "NCT 127 3rd Tour 'Neo City: Bulacan - The Unity'"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "DNM Entertainment Corporation",
+    "ESTABLISHMENT": "2023 Cravity 1st World Tour Masterpiece in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "DNM Entertainment Corporation",
+    "ESTABLISHMENT": "Hori7on 1st Concert/Event: Friend-ship [Voyage To Manila]"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "DNM Entertainment Corporation",
+    "ESTABLISHMENT": "2024 Kim Myungsoo Asia Tour Fanmeeting \"Reboot\" In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "DNM Entertainment Corporation",
+    "ESTABLISHMENT": "The Boyz World Tour Zeneration In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Dragon Arc Events Management",
+    "ESTABLISHMENT": "Soundtrip Sessions Vol. 3"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Electricsheep Entertainment Production",
+    "ESTABLISHMENT": "A Night at the Pops with the Manila Symphony Orchestra"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Embassy of the Republic of Korea",
+    "ESTABLISHMENT": "National Day Reception Day of the Republic of Korea"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Empire Holdings Inc.",
+    "ESTABLISHMENT": "MUPH Coronation Night"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Enav Marketing Services Inc.",
+    "ESTABLISHMENT": "All-New Mitsubishi Triton Launch Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Enav Marketing Services Inc.",
+    "ESTABLISHMENT": "Philippine International Motorshow - Mitsubishi Booth"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Eventscape Manila Inc.",
+    "ESTABLISHMENT": "Bingo Plus Game Launch"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Experience Entertainment (Insignia Presents)",
+    "ESTABLISHMENT": "Rex Orange County Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Experience Entertainment Inc. (Insignia Presents)",
+    "ESTABLISHMENT": "Emotional Oranges"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Far Eastern University Manila Bamboo Band",
+    "ESTABLISHMENT": "Ang Tangi Kong Ikaw"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "FHTC Entertainment & Productions Inc.",
+    "ESTABLISHMENT": "The Grand Countdown to 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "FHTC Entertainment & Productions Inc.",
+    "ESTABLISHMENT": "Eric Moo - Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "FILSCAP Inc.",
+    "ESTABLISHMENT": "Songwriters Night XIX"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Forthright Events & Sports Management Inc.",
+    "ESTABLISHMENT": "Inter-LOB Sportsfest 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Gerrome Esguerra",
+    "ESTABLISHMENT": "Got To Believe in Love"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "GForce Dance Center Corporation",
+    "ESTABLISHMENT": "G-Force Project 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Giant Lantern Festival Foundation Inc.",
+    "ESTABLISHMENT": "Giant Lantern Festival 2023"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "GMA Network Inc.",
+    "ESTABLISHMENT": "Queendom Live"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "GMA Network Incporporated",
+    "ESTABLISHMENT": "Julie x Stell"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "GNN Entertainment Productions",
+    "ESTABLISHMENT": "Scrubb Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "GNN Entertainment Productions",
+    "ESTABLISHMENT": "Hitsujibungaku Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Grand Themeworks Events Advertising OPC",
+    "ESTABLISHMENT": "President's Month Awards"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Grand Themeworks Events Advertising OPC",
+    "ESTABLISHMENT": "Sun Life August Championship Kick Off"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Grand Themeworks Events Advertising OPC",
+    "ESTABLISHMENT": "Sunlife To Townhall Meeting"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Gushcloud Philippines Inc.",
+    "ESTABLISHMENT": "Riize - The 1st Mini Album [Riizing] Fan Signing"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Hi Events Corporation",
+    "ESTABLISHMENT": "Airplay in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "IABC Philippines Inc.",
+    "ESTABLISHMENT": "The 20th Philippine Quill Awards"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Idea Music Entertainment Philippines Branch",
+    "ESTABLISHMENT": "Whib in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Imusic Entertainment Inc.",
+    "ESTABLISHMENT": "Regine Rocks The Repeat"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Imusic Entertainment Inc.",
+    "ESTABLISHMENT": "The King 4ever"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Innov Block Development Corp. - Kai Mall",
+    "ESTABLISHMENT": "Paskong Kai Saya"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Intellectual Reserve Inc.",
+    "ESTABLISHMENT": "Song of Hope, The Tabernacle Choir World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Intersections Communications Inc.",
+    "ESTABLISHMENT": "Watsons Playlist Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Intersections Communications Inc.",
+    "ESTABLISHMENT": "Fusion x Cebu 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "ISC Events Management",
+    "ESTABLISHMENT": "Project Horizon Music Festival"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "ISC Events Management",
+    "ESTABLISHMENT": "Horizon Halloween"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Jeepnijuan Inc.",
+    "ESTABLISHMENT": "Ramon V. Del Rosario Awards 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Jhonas Ballada Aguinaldo",
+    "ESTABLISHMENT": "Classic and Crossovers"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Arctic Monkeys Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Karpos Live Presents: Prep"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Laufey: A Night At The Symphony"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Wanderland Music & Arts Festival 2023"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Bruno Major Asia Tour 2024 in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Asiya: Asian Music Festival & Conference"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Karpos Live Presents: Snoh Aalegra"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Karpos Live Presents: Jamie XX"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Karpos Multimedia Inc.",
+    "ESTABLISHMENT": "Wanderland Music & Arts Festival 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Kbeam Events Management",
+    "ESTABLISHMENT": "Sungha Jung"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Lasallian Youth Orchestra",
+    "ESTABLISHMENT": "Forte - Lasallian Youth Orchestra"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Lasallian Youth Orchestra",
+    "ESTABLISHMENT": "Grandioso"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Artists Production Inc.",
+    "ESTABLISHMENT": "Born For You David Pomeranz Live"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Events And Digital Media Corp.",
+    "ESTABLISHMENT": "Globe G Fest 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Events and Digital Media Corp.",
+    "ESTABLISHMENT": "GCash 20th Anniversary"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Events And Digital Media Corp.",
+    "ESTABLISHMENT": "Move It Yep 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Portals Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Seventeen Tour Follow"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Act: Sweet Mirage"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "The Neverland Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Lauv The Between Albums Tour Cebu"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Lauv The Between Albums Tour Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "P1oneer in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Superglue in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "5th World Tour - Ready to Be"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Hello-2023 Treasure Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Nice to Mixx You"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Past the Naked Eye Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Emails I Can't Send Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Space Shuttle No. 8 Asia Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Rivermaya The Reunion"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Janet Jackson Together Again"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Music of the Spheres World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "2024 Treasure Relay Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Hold On Tight Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "The Show Live On Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "ilu 24/7, 365 tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Show What I Have"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Itzy 2nd World Tour Born To Be"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Purple Skies Asia Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "The Dream Show 3 Dream Scape NCT Dream"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Laufey 2024 Bewitched The Goddess Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Olivia Rodrigo Guts World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Big Time Rush: Asia Tour 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Lany - A Beautiful Blur World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Tate McRae - Think Later Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "Porter Robinson Smile! World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "DominATE Bulacan World Tour Stray Kids"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "2NE1 - Welcome Back Asia Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Live Nation Philippines Inc.",
+    "ESTABLISHMENT": "It's A Wasteland Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "L-Squared Productions Inc.",
+    "ESTABLISHMENT": "Whee In The Mood"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "L-Squared Productions Inc.",
+    "ESTABLISHMENT": "Guess! Onew Fan Meeting 2024 in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "L-Squared Productions Inc.",
+    "ESTABLISHMENT": "Flat Lux: Lucas First Fancon Tour in Asia Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "L-Squared Productions Inc.",
+    "ESTABLISHMENT": "V1be Manila 2024 Akon The Superfan Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Maika Cruz Experience And Branding Consultancy",
+    "ESTABLISHMENT": "Spotify Lounge feat. Ben&Ben and Maki"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Makeitlive Entertainment Inc.",
+    "ESTABLISHMENT": "Yoonite in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Makeitlive Entertainment Inc.",
+    "ESTABLISHMENT": "Prive Meets B.I. Fanmeet in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Makeitlive Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Kim Seon Ho Asia Tour in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Manila House Private Club Inc.",
+    "ESTABLISHMENT": "Ang Pagdiriwang 2024: Disco Down the 70"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Manila Philharmonic Orchestra Inc.",
+    "ESTABLISHMENT": "Lights, Camera, Encore - Music from the Movies and Screen MPO 25th Anniversary Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Media King Corp.",
+    "ESTABLISHMENT": "Closer To You: Fun Fan Meet"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Midas Promotions Inc.",
+    "ESTABLISHMENT": "Matt Maltese in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Miriam College",
+    "ESTABLISHMENT": "Fulminare"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Miss Asia Pacific International Inc.",
+    "ESTABLISHMENT": "Press Presentation/Preliminaries/Coronation Night"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Mquest Ventures Inc.",
+    "ESTABLISHMENT": "2024 Asia Tour Fan Meeting \"Sikcret Time in Manila\""
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Mquest Ventures Inc.",
+    "ESTABLISHMENT": "Merry Ang Vibes Ng Pasko The MVP Group Christmas Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Mquest Ventures Inc.",
+    "ESTABLISHMENT": "Welcome Back Kick-Off Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Mquest Ventures, Inc.",
+    "ESTABLISHMENT": "Hitman - David Foster and Friends"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Music Museum Group Inc.",
+    "ESTABLISHMENT": "Music Museum/Teatrino shows and events"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Music To My Ears Inc.",
+    "ESTABLISHMENT": "China Crisis Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Myl Entertainment Production",
+    "ESTABLISHMENT": "Music Travel Love Asia tour 2024 With Friends"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Myl Entertainment Production",
+    "ESTABLISHMENT": "Hillsong London Worship Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Nascent Collaboration Entertainment Production",
+    "ESTABLISHMENT": "The Lost in Love Experience"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Nathan Studios Inc.",
+    "ESTABLISHMENT": "Juan Karlos Live"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "National Collegiate Athletic Association (NCAA)",
+    "ESTABLISHMENT": "NCAA Street Dance Battle (S1)"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "Rock of the 80's \"Keep the Faith Bon Jovi Tribute\""
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "Julia Fordham A Valentine Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "Jr Richards Original Singer of Dishwalla"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "Sundown Lifestyle Fest"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "Abba Revisited"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "A Tribute to John Lennon"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "An Evening with David Benoit"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "Carpenters Reborn"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "talo Disco by Gazebo"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "New Wave Tribe Festival"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "New DMC International Entertainment Management OPC",
+    "ESTABLISHMENT": "The Chameleons Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Newport World Resotys/Travellers International Hotel Group Inc.",
+    "ESTABLISHMENT": "Newport Performing Arts Theater"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ninoy And Cory Aquino Foundation",
+    "ESTABLISHMENT": "The Edsa Story/Edsa Kahit Saan"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "NY Entourage Productions",
+    "ESTABLISHMENT": "Sa Ilalim Ng Mga Bituin"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "NY Entourage Productions",
+    "ESTABLISHMENT": "Sa Ilalim Ng Mga Bituin, December Avenue The Repeat Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Octopus Enterprises Inc.",
+    "ESTABLISHMENT": "Company Opening Night/Grand Opening Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Outbound Asia Incorporated",
+    "ESTABLISHMENT": "SLGFI VIP Night"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Outbound Asia Incorporated",
+    "ESTABLISHMENT": "Acer Day 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "The Rose Dawn to Dusk Asia Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Jonas Brothers"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Honne May 2023 Asia Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Ed Sheeran's +-= / x"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "2024 BTOB Fan Con Our Dream"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "An Evening with James Taylor"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Paul Anka"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Twice x Oishi Snacktacular Fanmeet"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Daryl Hall And The Daryl's House Band"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "XG 1st World Tour \"The First Howl\" Landing In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Choi Jin Hyuk Fan Con Tour in Asia"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Incognito"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ovation Productions Inc.",
+    "ESTABLISHMENT": "Best Of Fuji Kaze 2020-2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pfizer Inc.",
+    "ESTABLISHMENT": "Pfizer @ 70"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Philippines Educational Theater Association (PETA)",
+    "ESTABLISHMENT": "One More Chance The Musical"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Platinum Fireworks Inc.",
+    "ESTABLISHMENT": "11th Philippine International Pyromusical Competition"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Mark Tuan 'The Other Side' Asia Tour in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Asia Artist Awards 2023"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Enhypen World Tour 'Fate'in New Clark City"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Slash ft. Myles Kennedy & The Conspirators: The River is Rising"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Cha Eun Woo 2024 Just One Ten Minute (Mystery Elevator) in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Pulp Summer Slam XX Worlds Collide: The End"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Boys Like Girls Spring Tour 2024 In Manila With Special Guests We The Kings"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Arch Enemy Deceivers Asia Tour 2024 In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "2024 IU Hereh World Tour Concert/Event In Manila (Bulacan)"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "All Time Low 'Forever' In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Radwimps World Tour 2024 \"The Way You Yawn, And The Outcry Of Peace\" In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "2024 Byeon Woo Seok Asia Fanmeeting Tour: Summer Letter In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Secondhand Serenade Asia Tour 2024 Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "The Maine The Sweet Sixteen In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "The Red Jumpsuit Apparatus Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "2024 Chanyeol Live Tour: 都市風景 (City-Scape) in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "2024 Zerobaseone The First Tour [Timeless World] in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Last Dinosaurs Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Wisp Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "2024 Kim Ji Won 1st Fanmeeting <Be My One In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Running Man \"Run 2 U\" In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "Yesung Solo Concert/Event 'Unfading Sense In Manila'"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Pulp Live World Production Inc.",
+    "ESTABLISHMENT": "We The Kings Asia Tour 2024 Live In Davao"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Random Minds Inc.",
+    "ESTABLISHMENT": "Joey G, Side Ko Lang.."
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Random Minds Inc.",
+    "ESTABLISHMENT": "Electric Youth 35th Anniversary Show, An Evening With Debbie Gibson"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Reinventing Experiences and Dreams Advertising Inc.",
+    "ESTABLISHMENT": "9th Annual Convention PSPMCO: Shaping the Future of Private Practicing Midwives"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Reinventing Experiences and Dreams Advertising Inc.",
+    "ESTABLISHMENT": "2024 PLGMI Convention"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Rocketmedia Manila Inc.",
+    "ESTABLISHMENT": "Novamazing Moves"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Rolling Gum Studios Inc.",
+    "ESTABLISHMENT": "Bobapalooza Music and Arts Festival"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Rolling Gum Studios Inc.",
+    "ESTABLISHMENT": "Same Ground: Kitchie Nadal 20th Anniversary"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Saga Events Inc.",
+    "ESTABLISHMENT": "Honor Magic V2 Launch"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Saga Events Inc.",
+    "ESTABLISHMENT": "Century Tuna Superbods Best You Ever Finals Night"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Secret Signals Worldwide Pte. Ltd.",
+    "ESTABLISHMENT": "Lauv Live At Wish Bus"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Set & Stage Resource Management Inc.",
+    "ESTABLISHMENT": "JPMC-COOPC Year-End Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Showbiz Town Inc.",
+    "ESTABLISHMENT": "2024 Kwave Music Festival Philippines"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Showbiz Town Inc.",
+    "ESTABLISHMENT": "SBTown Music Fiesta"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Showbiz Town Inc.",
+    "ESTABLISHMENT": "Hann - The OST K-Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Slam Event Production",
+    "ESTABLISHMENT": "What The Frank? 1st Solo Fan Convention"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Sony Music Entertainment Philippines Inc.",
+    "ESTABLISHMENT": "Dhruv Promo Tour In Southeast Asia 2024 - Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Sony Music Entertainment Philippines Inc.",
+    "ESTABLISHMENT": "Peder Elias Promotional Trip in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Stages Production Specialists Inc.",
+    "ESTABLISHMENT": "BPI Excellence Awards 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Sunrise Events Inc.",
+    "ESTABLISHMENT": "Asics Rock 'N Roll Running Series Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Super Awesome Productions And Consultancy",
+    "ESTABLISHMENT": "Playback Presents: The of David Archuleta"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Sureste Properties Inc.",
+    "ESTABLISHMENT": "Solaire Resort Entertainment City Events"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Sureste Properties Inc.",
+    "ESTABLISHMENT": "Ultimate Solaire NYE Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Suyen Corporation",
+    "ESTABLISHMENT": "A Sweet Experience Bench Fan Meet With Enhypen"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Suyen Corporation",
+    "ESTABLISHMENT": "Bench Presents 2024 Riize Fan-Con Tour, Riizing Fay Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Suyen Corporation",
+    "ESTABLISHMENT": "Bench Moments with Ji Chang Wook"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Tagged Events Café",
+    "ESTABLISHMENT": "Love Cebu Music Festival"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Tap Entertainment Production",
+    "ESTABLISHMENT": "Bobby Zero Gravity Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Tap Entertainment Production",
+    "ESTABLISHMENT": "B.I 2024 Tour Hype Up In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Tap Entertainment Production",
+    "ESTABLISHMENT": "EAJ Live in Manila: When the Rain Stopped Following Me"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Tap Entertainment Production",
+    "ESTABLISHMENT": "2024 Yugyeom Tour {Trusty] Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Team Onground Inc.",
+    "ESTABLISHMENT": "2024 Coca-Cola Global Christmas Truck Tour Presents: Santa is Coming to the Biggest Coca-Cola Philippines Drone Show"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Themeworks Events Company",
+    "ESTABLISHMENT": "Sun Life Holiday Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Themeworks Events Company",
+    "ESTABLISHMENT": "One Sun Life Congress"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Thenet.com or more commonly known as TNC Group",
+    "ESTABLISHMENT": "Asia Pacific Predator League 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Throb Pro Light And Sound",
+    "ESTABLISHMENT": "R1 Year End Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Ticket1 Travel",
+    "ESTABLISHMENT": "Andrew E: 1 Time For Your Mind"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "TTEC Customer Care Management Philippines Inc.",
+    "ESTABLISHMENT": "Disco Wonderland! The 2024 Year-End Prom Party"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "UMG Philippines Inc.",
+    "ESTABLISHMENT": "Katseye Touchdown in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Universal Records Inc.",
+    "ESTABLISHMENT": "Unis in Curiousland"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "University of the Philippines Diliman, UP Theater Complex",
+    "ESTABLISHMENT": "2024 UP Diliman Commencement Exercises"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Vantage Events And Music Production Inc.",
+    "ESTABLISHMENT": "St. Gerrard Mini Concert/Event"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "VBC Brand Consultancy Services",
+    "ESTABLISHMENT": "Salto Bienvenidos!"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "VBC Brand Consultancy Services",
+    "ESTABLISHMENT": "Salto at the 2024 World Gamefowl Expo"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Viva Artists Agency Inc.",
+    "ESTABLISHMENT": "Bingo Plus Night 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Viva Artists Agency Inc.",
+    "ESTABLISHMENT": "KFC Kentucky Town"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Warner Music Philippines",
+    "ESTABLISHMENT": "Max Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Warner Music Philippines Inc.",
+    "ESTABLISHMENT": "We Play Hero: School Tour 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Warner Music Philippines Inc.",
+    "ESTABLISHMENT": "Crashing Into TriNoma: Crash Adams Live in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Warner Music Philippines Inc.",
+    "ESTABLISHMENT": "Honne Album Signing in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Warner Music Philippines Inc.",
+    "ESTABLISHMENT": "Linya Linya Land"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Wave to Earth the First Era Concert/Event Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Xdinary Heroes <Break the Brake> World Tour"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Baekhyun Asia Tour Lonsdalette"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Freenbecky 2024 Fan Meeting in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Incubus Asia Tour 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Ahn Bo Hyun Asia Tour Fan Meeting In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Kim Soo Hyun Fan Meeting In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Doh Kyung Soo Asia Fan Concert/Event Tour <Bloom> In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Suho Concert/Event, Welcome To Su: Home In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Vaultboy Asia Tour 2024 Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Ne-Yo Champagne and Roses Tour in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Red Velvet Fancon Tour in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "I Am Worldwide Anniversary Event 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "Fiji Blue Asia Tour in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "2024 Chen Fan-Con Beyond the Door in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wilbros Entertainment Inc.",
+    "ESTABLISHMENT": "DVWN 2024 Asia Tour Live In Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wish Us Luck Entertainment Production",
+    "ESTABLISHMENT": "Naughty Babe 1st Fanmeeting in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wish Us Luck Entertainment Production",
+    "ESTABLISHMENT": "Luvcon 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wish Us Luck Entertainment Production",
+    "ESTABLISHMENT": "Pit Babe Asia Tour 1st Fan Meeting In Manila Love's Journey"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wish Us Luck Entertainment Production",
+    "ESTABLISHMENT": "Last Twilight Fan Meeting in Manila"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "Wish Us Luck Entertainment Production",
+    "ESTABLISHMENT": "Deep Into The Ocean: The Sign Fanmeeting In Manila 2024"
+  },
+  {
+    "CATEGORY": "Concert/Event",
+    "COMPANY": "WSDS Multimedia Production",
+    "ESTABLISHMENT": "MTRCB - Gabi Ng Pasasalamat"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "Ayala Foundation Inc.",
+    "ESTABLISHMENT": "https://zoom.us/j/8695632911?pwd=RU1uanpFZmpSNGphemQwVjVRU3FkZz09"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "Cignal TV Inc.",
+    "ESTABLISHMENT": "UAAP S86 Cheerdance Competition"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "Cignal TV Inc.",
+    "ESTABLISHMENT": "UAAP S87 Opening Ceremony"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "CMC Production Consulting Company Inc.",
+    "ESTABLISHMENT": "A-List Awards 2024"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "CMC Production Consulting Company Inc.",
+    "ESTABLISHMENT": "A-List Awards 2024 Pride Fiesta Manila"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "CMC Production Consulting Company Inc.",
+    "ESTABLISHMENT": "Global Google Operations Townhall"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "Eventscape Manila Inc.",
+    "ESTABLISHMENT": "Bingo Plus Game Launch"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "JPMorgan Chase Bank N.A.-Philippines Global Service Center",
+    "ESTABLISHMENT": "https://zoom.us"
+  },
+  {
+    "CATEGORY": "Online Events",
+    "COMPANY": "Viva Artists Agency Inc.",
+    "ESTABLISHMENT": "Bingo Plus Night Event 2024 2nd Anniversary"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Accenture Inc.",
+    "ESTABLISHMENT": "various platforms"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Advanced Media Broadcasting System Inc.",
+    "ESTABLISHMENT": "www.klite1035.com.ph"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "AMFM Philippines",
+    "ESTABLISHMENT": "https://www.amfmph.com/"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Apple Distribution Ltd",
+    "ESTABLISHMENT": "Apple Music"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Bishop of Lighthouse Bible Baptist Church of Tatalon QC. Inc.",
+    "ESTABLISHMENT": "Lighthouse Spectrum mobile app/website"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Blue Moon Ltd. on behalf of Eplus Inc.",
+    "ESTABLISHMENT": "Streaming+, https://ib.eplus.jp/"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Bytedance Pte. Ltd.",
+    "ESTABLISHMENT": "CapCut"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "CBN Asia Inc.",
+    "ESTABLISHMENT": "https://cbnasia.org, https://icanbreakthrough.com"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Cignal TV, Inc.",
+    "ESTABLISHMENT": "Cignal Play app"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "CS Global Workplace, Inc.",
+    "ESTABLISHMENT": "Cloudstaff Radio "
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "De La Salle University Manila",
+    "ESTABLISHMENT": "www.greengiantfm.com"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Dumaguete Media Productions",
+    "ESTABLISHMENT": "https://allhitz24.com"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Easy Tempo Inc.",
+    "ESTABLISHMENT": "Easy Tempo"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "GMA Network, Inc.",
+    "ESTABLISHMENT": "www.gmanetwork.com/radio"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Google Irish OpCo. OU",
+    "ESTABLISHMENT": "YouTube website/mobile app"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "GVM Radio/TV Corporation",
+    "ESTABLISHMENT": "www.y101fm.com"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Huawei Services (Hong Kong) Co., Limited",
+    "ESTABLISHMENT": "Huawei"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Hubvantage Services Inc.",
+    "ESTABLISHMENT": "Melo Jam"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Inquirer Interactive Inc.",
+    "ESTABLISHMENT": "https://pop.inquirer.net/"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Kumumedia International Pte. Ltd.",
+    "ESTABLISHMENT": "Kumu"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Meta Platforms Ireland Ltd.",
+    "ESTABLISHMENT": "various Facebook properties"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Musicstyling.com Limited",
+    "ESTABLISHMENT": "www.musicstyling.com"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Nestle Philippines Inc.",
+    "ESTABLISHMENT": "various websites/platforms"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Netflix, Inc.",
+    "ESTABLISHMENT": "Netflix"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Paul B. Espina",
+    "ESTABLISHMENT": "https://www.wattpad.com/1183662723-pandemic-diaries-read-laugh-cry-love-and-sing"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Rappler Inc.",
+    "ESTABLISHMENT": "Rappler website"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Recisio",
+    "ESTABLISHMENT": "Karafun mobile app"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Spotify AB",
+    "ESTABLISHMENT": "Spotify mobile app/website"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Steezy Inc.",
+    "ESTABLISHMENT": "Steezy Studio"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "The Astra Group Inc.",
+    "ESTABLISHMENT": "Magic Sing Philippines website/app"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Tiktok Pte. Ltd.",
+    "ESTABLISHMENT": "TikTok"
+  },
+  {
+    "CATEGORY": "Digital",
+    "COMPANY": "Xipu Pte. Ltd.",
+    "ESTABLISHMENT": "Idol Party"
+  },
+  {
+    "CATEGORY": "Synchronization",
+    "COMPANY": "Century Pacific Food Inc.",
+    "ESTABLISHMENT": " "
+  },
+  {
+    "CATEGORY": "Synchronization",
+    "COMPANY": "Fresh N Famous Foods Inc.",
+    "ESTABLISHMENT": " "
+  },
+  {
+    "CATEGORY": "Synchronization",
+    "COMPANY": "FRMG, LDA, - Uma Pedra No Sapato",
+    "ESTABLISHMENT": " "
+  },
+  {
+    "CATEGORY": "Synchronization",
+    "COMPANY": "Unilab, Inc.",
+    "ESTABLISHMENT": " "
+  },
+  {
+    "CATEGORY": "Mechanical",
+    "COMPANY": "ABS-CBN Film Productions Inc.",
+    "ESTABLISHMENT": " "
+  },
+  {
+    "CATEGORY": "Mechanical",
+    "COMPANY": "Audio-Video Solutions Corp.",
+    "ESTABLISHMENT": " "
+  },
+  {
+    "CATEGORY": "Mechanical",
+    "COMPANY": "TJ Media Co. Ltd.",
+    "ESTABLISHMENT": " "
+  }
+]
